@@ -29,8 +29,11 @@ jobs:
       - name: Run pipeline
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          EMAIL_ADDRESS: ${{ secrets.SMTP_EMAIL }}
-          EMAIL_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
+          SMTP_ADDRESS: ${{ secrets.SMTP_ADDRESS }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           SEND_EMAIL: "true"
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
         run: |

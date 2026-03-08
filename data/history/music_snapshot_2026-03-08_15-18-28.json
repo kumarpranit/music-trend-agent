@@ -1,0 +1,4290 @@
+{
+  "user_query": "Which tracks should a music label watch this week?",
+  "countries": [
+    "United States",
+    "United Kingdom",
+    "Canada",
+    "Australia",
+    "Brazil",
+    "India"
+  ],
+  "top_n": 10,
+  "raw_chart_tracks": [
+    {
+      "rank": 1,
+      "artist": "Harry Styles",
+      "track": "American Girls",
+      "streams": 8305609,
+      "source": "kworb_spotify_global",
+      "url": "https://kworb.net/spotify/country/global_daily.html"
+    },
+    {
+      "rank": 2,
+      "artist": "Harry Styles",
+      "track": "Ready, Steady, Go!",
+      "streams": 6122110,
+      "source": "kworb_spotify_global",
+      "url": "https://kworb.net/spotify/country/global_daily.html"
+    },
+    {
+      "rank": 3,
+      "artist": "PinkPantheress",
+      "track": "Stateside + Zara Larsson (w/ Zara Larsson)",
+      "streams": 5731272,
+      "source": "kworb_spotify_global",
+      "url": "https://kworb.net/spotify/country/global_daily.html"
+    },
+    {
+      "rank": 4,
+      "artist": "Harry Styles",
+      "track": "Are You Listening Yet?",
+      "streams": 5668994,
+      "source": "kworb_spotify_global",
+      "url": "https://kworb.net/spotify/country/global_daily.html"
+    },
+    {
+      "rank": 5,
+      "artist": "Bruno Mars",
+      "track": "Risk It All",
+      "streams": 5563594,
+      "source": "kworb_spotify_global",
+      "url": "https://kworb.net/spotify/country/global_daily.html"
+    },
+    {
+      "rank": 6,
+      "artist": "Harry Styles",
+      "track": "Taste Back",
+      "streams": 5557886,
+      "source": "kworb_spotify_global",
+      "url": "https://kworb.net/spotify/country/global_daily.html"
+    },
+    {
+      "rank": 7,
+      "artist": "Bad Bunny",
+      "track": "DtMF",
+      "streams": 5345427,
+      "source": "kworb_spotify_global",
+      "url": "https://kworb.net/spotify/country/global_daily.html"
+    },
+    {
+      "rank": 8,
+      "artist": "Harry Styles",
+      "track": "Coming Up Roses",
+      "streams": 5209204,
+      "source": "kworb_spotify_global",
+      "url": "https://kworb.net/spotify/country/global_daily.html"
+    },
+    {
+      "rank": 9,
+      "artist": "Harry Styles",
+      "track": "Aperture",
+      "streams": 5008074,
+      "source": "kworb_spotify_global",
+      "url": "https://kworb.net/spotify/country/global_daily.html"
+    },
+    {
+      "rank": 10,
+      "artist": "Harry Styles",
+      "track": "The Waiting Game",
+      "streams": 4984348,
+      "source": "kworb_spotify_global",
+      "url": "https://kworb.net/spotify/country/global_daily.html"
+    }
+  ],
+  "raw_geo_tracks": {
+    "United States": [
+      {
+        "name": "Stateside + Zara Larsson",
+        "duration": "176",
+        "listeners": "141781",
+        "mbid": "ffbf7862-2476-4164-ac32-f5904ccefe0f",
+        "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "PinkPantheress",
+          "mbid": "7441014f-f8f5-494f-81db-ff166fbc078d",
+          "url": "https://www.last.fm/music/PinkPantheress"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "0"
+        }
+      },
+      {
+        "name": "DtMF",
+        "duration": "237",
+        "listeners": "64544",
+        "mbid": "2944ab9d-2e49-4143-83fb-4e8499469654",
+        "url": "https://www.last.fm/music/Bad+Bunny/_/DtMF",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Bad Bunny",
+          "mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+          "url": "https://www.last.fm/music/Bad+Bunny"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "1"
+        }
+      },
+      {
+        "name": "Risk It All",
+        "duration": "204",
+        "listeners": "60298",
+        "mbid": "d672fe10-182c-4a17-a510-9f45b4a1f82f",
+        "url": "https://www.last.fm/music/Bruno+Mars/_/Risk+It+All",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Bruno Mars",
+          "mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
+          "url": "https://www.last.fm/music/Bruno+Mars"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "2"
+        }
+      },
+      {
+        "name": "American Girls",
+        "duration": "213",
+        "listeners": "59893",
+        "mbid": "2c85fe70-3c0e-4b43-8d97-f5b5c4757f3a",
+        "url": "https://www.last.fm/music/Harry+Styles/_/American+Girls",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Harry Styles",
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "url": "https://www.last.fm/music/Harry+Styles"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "3"
+        }
+      },
+      {
+        "name": "Fame Is a Gun",
+        "duration": "183",
+        "listeners": "59313",
+        "mbid": "37907edc-06c1-4d08-b2ef-7e5221986f91",
+        "url": "https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Addison Rae",
+          "mbid": "610b71d9-fa78-47d6-9073-083922e73840",
+          "url": "https://www.last.fm/music/Addison+Rae"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "4"
+        }
+      },
+      {
+        "name": "Earrings",
+        "duration": "0",
+        "listeners": "59130",
+        "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Malcolm Todd",
+          "mbid": "6c2a79b8-2b5c-4c2d-b495-6a446811bf9d",
+          "url": "https://www.last.fm/music/Malcolm+Todd"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "5"
+        }
+      },
+      {
+        "name": "Babydoll",
+        "duration": "97",
+        "listeners": "57767",
+        "mbid": "c6fa2cd4-a100-4db8-8206-3cbcdd3aabe0",
+        "url": "https://www.last.fm/music/Dominic+Fike/_/Babydoll",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Dominic Fike",
+          "mbid": "e337c918-098f-418e-97a2-81dc224b1bf9",
+          "url": "https://www.last.fm/music/Dominic+Fike"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "6"
+        }
+      },
+      {
+        "name": "Aperture",
+        "duration": "311",
+        "listeners": "56485",
+        "mbid": "2b1c66e1-4023-4294-813a-9d7d921bffbc",
+        "url": "https://www.last.fm/music/Harry+Styles/_/Aperture",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Harry Styles",
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "url": "https://www.last.fm/music/Harry+Styles"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "7"
+        }
+      },
+      {
+        "name": "E85",
+        "duration": "0",
+        "listeners": "55822",
+        "mbid": "5c66f91b-1b0d-4bd7-b1e1-8d2477f99b92",
+        "url": "https://www.last.fm/music/Don+Toliver/_/E85",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Don Toliver",
+          "mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+          "url": "https://www.last.fm/music/Don+Toliver"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "8"
+        }
+      },
+      {
+        "name": "Ready, Steady, Go!",
+        "duration": "160",
+        "listeners": "55081",
+        "mbid": "4f255861-925f-4629-ab41-22f4b35d8585",
+        "url": "https://www.last.fm/music/Harry+Styles/_/Ready,+Steady,+Go%21",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Harry Styles",
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "url": "https://www.last.fm/music/Harry+Styles"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "9"
+        }
+      }
+    ],
+    "United Kingdom": [
+      {
+        "name": "Stateside + Zara Larsson",
+        "duration": "176",
+        "listeners": "35964",
+        "mbid": "ffbf7862-2476-4164-ac32-f5904ccefe0f",
+        "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "PinkPantheress",
+          "mbid": "7441014f-f8f5-494f-81db-ff166fbc078d",
+          "url": "https://www.last.fm/music/PinkPantheress"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "0"
+        }
+      },
+      {
+        "name": "Aperture",
+        "duration": "311",
+        "listeners": "19218",
+        "mbid": "2b1c66e1-4023-4294-813a-9d7d921bffbc",
+        "url": "https://www.last.fm/music/Harry+Styles/_/Aperture",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Harry Styles",
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "url": "https://www.last.fm/music/Harry+Styles"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "1"
+        }
+      },
+      {
+        "name": "American Girls",
+        "duration": "213",
+        "listeners": "18332",
+        "mbid": "2c85fe70-3c0e-4b43-8d97-f5b5c4757f3a",
+        "url": "https://www.last.fm/music/Harry+Styles/_/American+Girls",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Harry Styles",
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "url": "https://www.last.fm/music/Harry+Styles"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "2"
+        }
+      },
+      {
+        "name": "Man I Need",
+        "duration": "184",
+        "listeners": "17607",
+        "mbid": "3161a467-1441-4ef8-8ca0-424db271cd79",
+        "url": "https://www.last.fm/music/Olivia+Dean/_/Man+I+Need",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Olivia Dean",
+          "mbid": "15e0d608-0869-429b-898d-3d8db3ecedd5",
+          "url": "https://www.last.fm/music/Olivia+Dean"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "3"
+        }
+      },
+      {
+        "name": "Ready, Steady, Go!",
+        "duration": "160",
+        "listeners": "16929",
+        "mbid": "4f255861-925f-4629-ab41-22f4b35d8585",
+        "url": "https://www.last.fm/music/Harry+Styles/_/Ready,+Steady,+Go%21",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Harry Styles",
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "url": "https://www.last.fm/music/Harry+Styles"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "4"
+        }
+      },
+      {
+        "name": "Fame Is a Gun",
+        "duration": "183",
+        "listeners": "16152",
+        "mbid": "37907edc-06c1-4d08-b2ef-7e5221986f91",
+        "url": "https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Addison Rae",
+          "mbid": "610b71d9-fa78-47d6-9073-083922e73840",
+          "url": "https://www.last.fm/music/Addison+Rae"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "5"
+        }
+      },
+      {
+        "name": "Are you listening yet?",
+        "duration": "192",
+        "listeners": "16007",
+        "mbid": "b009d3d9-5ce3-4fdb-b464-7262f3a7ab62",
+        "url": "https://www.last.fm/music/Harry+Styles/_/Are+you+listening+yet%3F",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Harry Styles",
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "url": "https://www.last.fm/music/Harry+Styles"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "6"
+        }
+      },
+      {
+        "name": "Taste Back",
+        "duration": "221",
+        "listeners": "15535",
+        "mbid": "49562fdd-c325-415a-a2be-7d71f121b25d",
+        "url": "https://www.last.fm/music/Harry+Styles/_/Taste+Back",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Harry Styles",
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "url": "https://www.last.fm/music/Harry+Styles"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "7"
+        }
+      },
+      {
+        "name": "Rein Me In (with Olivia Dean)",
+        "duration": "0",
+        "listeners": "15295",
+        "url": "https://www.last.fm/music/Sam+Fender/_/Rein+Me+In+(with+Olivia+Dean)",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Sam Fender",
+          "mbid": "3478a5d1-bd96-4584-aa54-4d6e0a329658",
+          "url": "https://www.last.fm/music/Sam+Fender"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "8"
+        }
+      },
+      {
+        "name": "So Easy (To Fall In Love)",
+        "duration": "170",
+        "listeners": "15191",
+        "url": "https://www.last.fm/music/Olivia+Dean/_/So+Easy+(To+Fall+In+Love)",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Olivia Dean",
+          "mbid": "15e0d608-0869-429b-898d-3d8db3ecedd5",
+          "url": "https://www.last.fm/music/Olivia+Dean"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "9"
+        }
+      }
+    ],
+    "Canada": [
+      {
+        "name": "Stateside + Zara Larsson",
+        "duration": "176",
+        "listeners": "17929",
+        "mbid": "ffbf7862-2476-4164-ac32-f5904ccefe0f",
+        "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "PinkPantheress",
+          "mbid": "7441014f-f8f5-494f-81db-ff166fbc078d",
+          "url": "https://www.last.fm/music/PinkPantheress"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "0"
+        }
+      },
+      {
+        "name": "Babydoll",
+        "duration": "97",
+        "listeners": "7500",
+        "mbid": "c6fa2cd4-a100-4db8-8206-3cbcdd3aabe0",
+        "url": "https://www.last.fm/music/Dominic+Fike/_/Babydoll",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Dominic Fike",
+          "mbid": "e337c918-098f-418e-97a2-81dc224b1bf9",
+          "url": "https://www.last.fm/music/Dominic+Fike"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "1"
+        }
+      },
+      {
+        "name": "Risk It All",
+        "duration": "204",
+        "listeners": "7387",
+        "mbid": "d672fe10-182c-4a17-a510-9f45b4a1f82f",
+        "url": "https://www.last.fm/music/Bruno+Mars/_/Risk+It+All",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Bruno Mars",
+          "mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
+          "url": "https://www.last.fm/music/Bruno+Mars"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "2"
+        }
+      },
+      {
+        "name": "Fame Is a Gun",
+        "duration": "183",
+        "listeners": "7317",
+        "mbid": "37907edc-06c1-4d08-b2ef-7e5221986f91",
+        "url": "https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Addison Rae",
+          "mbid": "610b71d9-fa78-47d6-9073-083922e73840",
+          "url": "https://www.last.fm/music/Addison+Rae"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "3"
+        }
+      },
+      {
+        "name": "E85",
+        "duration": "0",
+        "listeners": "6852",
+        "mbid": "5c66f91b-1b0d-4bd7-b1e1-8d2477f99b92",
+        "url": "https://www.last.fm/music/Don+Toliver/_/E85",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Don Toliver",
+          "mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+          "url": "https://www.last.fm/music/Don+Toliver"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "4"
+        }
+      },
+      {
+        "name": "I Just Might",
+        "duration": "213",
+        "listeners": "6732",
+        "mbid": "781018b7-f4f0-4fae-9b41-f45ecbe34024",
+        "url": "https://www.last.fm/music/Bruno+Mars/_/I+Just+Might",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Bruno Mars",
+          "mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
+          "url": "https://www.last.fm/music/Bruno+Mars"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "5"
+        }
+      },
+      {
+        "name": "DtMF",
+        "duration": "237",
+        "listeners": "6706",
+        "mbid": "2944ab9d-2e49-4143-83fb-4e8499469654",
+        "url": "https://www.last.fm/music/Bad+Bunny/_/DtMF",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Bad Bunny",
+          "mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+          "url": "https://www.last.fm/music/Bad+Bunny"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "6"
+        }
+      },
+      {
+        "name": "Earrings",
+        "duration": "0",
+        "listeners": "6653",
+        "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Malcolm Todd",
+          "mbid": "6c2a79b8-2b5c-4c2d-b495-6a446811bf9d",
+          "url": "https://www.last.fm/music/Malcolm+Todd"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "7"
+        }
+      },
+      {
+        "name": "American Girls",
+        "duration": "213",
+        "listeners": "6308",
+        "mbid": "2c85fe70-3c0e-4b43-8d97-f5b5c4757f3a",
+        "url": "https://www.last.fm/music/Harry+Styles/_/American+Girls",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Harry Styles",
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "url": "https://www.last.fm/music/Harry+Styles"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "8"
+        }
+      },
+      {
+        "name": "Aperture",
+        "duration": "311",
+        "listeners": "6194",
+        "mbid": "2b1c66e1-4023-4294-813a-9d7d921bffbc",
+        "url": "https://www.last.fm/music/Harry+Styles/_/Aperture",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Harry Styles",
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "url": "https://www.last.fm/music/Harry+Styles"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "9"
+        }
+      }
+    ],
+    "Australia": [
+      {
+        "name": "Stateside + Zara Larsson",
+        "duration": "176",
+        "listeners": "15615",
+        "mbid": "ffbf7862-2476-4164-ac32-f5904ccefe0f",
+        "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "PinkPantheress",
+          "mbid": "7441014f-f8f5-494f-81db-ff166fbc078d",
+          "url": "https://www.last.fm/music/PinkPantheress"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "0"
+        }
+      },
+      {
+        "name": "Fame Is a Gun",
+        "duration": "183",
+        "listeners": "6931",
+        "mbid": "37907edc-06c1-4d08-b2ef-7e5221986f91",
+        "url": "https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Addison Rae",
+          "mbid": "610b71d9-fa78-47d6-9073-083922e73840",
+          "url": "https://www.last.fm/music/Addison+Rae"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "1"
+        }
+      },
+      {
+        "name": "American Girls",
+        "duration": "213",
+        "listeners": "6819",
+        "mbid": "2c85fe70-3c0e-4b43-8d97-f5b5c4757f3a",
+        "url": "https://www.last.fm/music/Harry+Styles/_/American+Girls",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Harry Styles",
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "url": "https://www.last.fm/music/Harry+Styles"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "2"
+        }
+      },
+      {
+        "name": "Aperture",
+        "duration": "311",
+        "listeners": "6727",
+        "mbid": "2b1c66e1-4023-4294-813a-9d7d921bffbc",
+        "url": "https://www.last.fm/music/Harry+Styles/_/Aperture",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Harry Styles",
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "url": "https://www.last.fm/music/Harry+Styles"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "3"
+        }
+      },
+      {
+        "name": "Man I Need",
+        "duration": "184",
+        "listeners": "6490",
+        "mbid": "3161a467-1441-4ef8-8ca0-424db271cd79",
+        "url": "https://www.last.fm/music/Olivia+Dean/_/Man+I+Need",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Olivia Dean",
+          "mbid": "15e0d608-0869-429b-898d-3d8db3ecedd5",
+          "url": "https://www.last.fm/music/Olivia+Dean"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "4"
+        }
+      },
+      {
+        "name": "Babydoll",
+        "duration": "97",
+        "listeners": "6376",
+        "mbid": "c6fa2cd4-a100-4db8-8206-3cbcdd3aabe0",
+        "url": "https://www.last.fm/music/Dominic+Fike/_/Babydoll",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Dominic Fike",
+          "mbid": "e337c918-098f-418e-97a2-81dc224b1bf9",
+          "url": "https://www.last.fm/music/Dominic+Fike"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "5"
+        }
+      },
+      {
+        "name": "Ready, Steady, Go!",
+        "duration": "160",
+        "listeners": "6322",
+        "mbid": "4f255861-925f-4629-ab41-22f4b35d8585",
+        "url": "https://www.last.fm/music/Harry+Styles/_/Ready,+Steady,+Go%21",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Harry Styles",
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "url": "https://www.last.fm/music/Harry+Styles"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "6"
+        }
+      },
+      {
+        "name": "So Easy (To Fall In Love)",
+        "duration": "170",
+        "listeners": "6283",
+        "url": "https://www.last.fm/music/Olivia+Dean/_/So+Easy+(To+Fall+In+Love)",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Olivia Dean",
+          "mbid": "15e0d608-0869-429b-898d-3d8db3ecedd5",
+          "url": "https://www.last.fm/music/Olivia+Dean"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "7"
+        }
+      },
+      {
+        "name": "Dracula",
+        "duration": "205",
+        "listeners": "6086",
+        "mbid": "5b1c893a-16da-4e3d-b9b7-6cc57afc360c",
+        "url": "https://www.last.fm/music/Tame+Impala/_/Dracula",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Tame Impala",
+          "mbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
+          "url": "https://www.last.fm/music/Tame+Impala"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "8"
+        }
+      },
+      {
+        "name": "Are you listening yet?",
+        "duration": "192",
+        "listeners": "6046",
+        "mbid": "b009d3d9-5ce3-4fdb-b464-7262f3a7ab62",
+        "url": "https://www.last.fm/music/Harry+Styles/_/Are+you+listening+yet%3F",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Harry Styles",
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "url": "https://www.last.fm/music/Harry+Styles"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "9"
+        }
+      }
+    ],
+    "Brazil": [
+      {
+        "name": "Stateside + Zara Larsson",
+        "duration": "176",
+        "listeners": "80264",
+        "mbid": "ffbf7862-2476-4164-ac32-f5904ccefe0f",
+        "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "PinkPantheress",
+          "mbid": "7441014f-f8f5-494f-81db-ff166fbc078d",
+          "url": "https://www.last.fm/music/PinkPantheress"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "0"
+        }
+      },
+      {
+        "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
+        "duration": "140",
+        "listeners": "50914",
+        "mbid": "bd37b568-6b11-47e9-878a-4279cf5fb1e2",
+        "url": "https://www.last.fm/music/NandaTsunami/_/P.I.T.T.Y.+(Parecendo+Uma+Cafetina)",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "NandaTsunami",
+          "mbid": "a79eaa67-a865-406c-b98d-f4512ad198f2",
+          "url": "https://www.last.fm/music/NandaTsunami"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "1"
+        }
+      },
+      {
+        "name": "Lua Cheia",
+        "duration": "197",
+        "listeners": "47532",
+        "mbid": "96e8544b-f820-413e-a3d9-1bc39ac61498",
+        "url": "https://www.last.fm/music/Marina+Sena/_/Lua+Cheia",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Marina Sena",
+          "mbid": "2b1e7c27-2663-43df-9c23-8601e173e6ef",
+          "url": "https://www.last.fm/music/Marina+Sena"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "2"
+        }
+      },
+      {
+        "name": "Midnight Sun",
+        "duration": "189",
+        "listeners": "44975",
+        "mbid": "21e8a4db-0892-428d-a143-0e2215dddbfa",
+        "url": "https://www.last.fm/music/Zara+Larsson/_/Midnight+Sun",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Zara Larsson",
+          "mbid": "134e6410-6954-45d1-bd4a-0f2d2ad5471d",
+          "url": "https://www.last.fm/music/Zara+Larsson"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "3"
+        }
+      },
+      {
+        "name": "Manchild",
+        "duration": "213",
+        "listeners": "41939",
+        "mbid": "16afd537-24ce-45f4-b3bc-e2ac99de3bf0",
+        "url": "https://www.last.fm/music/Sabrina+Carpenter/_/Manchild",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Sabrina Carpenter",
+          "mbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
+          "url": "https://www.last.fm/music/Sabrina+Carpenter"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "4"
+        }
+      },
+      {
+        "name": "JETSKI",
+        "duration": "148",
+        "listeners": "41356",
+        "mbid": "a7173349-fdb5-463d-a929-3702a0ee2c1a",
+        "url": "https://www.last.fm/music/PEDRO+SAMPAIO/_/JETSKI",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "PEDRO SAMPAIO",
+          "mbid": "796bc8a9-efd1-43e8-bacf-5eba68835928",
+          "url": "https://www.last.fm/music/PEDRO+SAMPAIO"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "5"
+        }
+      },
+      {
+        "name": "Numa Ilha",
+        "duration": "249",
+        "listeners": "39679",
+        "mbid": "36d151af-f09f-4f11-a755-be86ab6e3294",
+        "url": "https://www.last.fm/music/Marina+Sena/_/Numa+Ilha",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Marina Sena",
+          "mbid": "2b1e7c27-2663-43df-9c23-8601e173e6ef",
+          "url": "https://www.last.fm/music/Marina+Sena"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "6"
+        }
+      },
+      {
+        "name": "Desmitificar",
+        "duration": "213",
+        "listeners": "39615",
+        "mbid": "37db0d8f-1d5b-4dde-85f2-9df64d1173f0",
+        "url": "https://www.last.fm/music/Marina+Sena/_/Desmitificar",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Marina Sena",
+          "mbid": "2b1e7c27-2663-43df-9c23-8601e173e6ef",
+          "url": "https://www.last.fm/music/Marina+Sena"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "7"
+        }
+      },
+      {
+        "name": "Fame Is a Gun",
+        "duration": "183",
+        "listeners": "38695",
+        "mbid": "37907edc-06c1-4d08-b2ef-7e5221986f91",
+        "url": "https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Addison Rae",
+          "mbid": "610b71d9-fa78-47d6-9073-083922e73840",
+          "url": "https://www.last.fm/music/Addison+Rae"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "8"
+        }
+      },
+      {
+        "name": "CARNAVAL",
+        "duration": "162",
+        "listeners": "36298",
+        "mbid": "3ad00e7b-052f-4024-b3f1-8944a5e610f6",
+        "url": "https://www.last.fm/music/Marina+Sena/_/CARNAVAL",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Marina Sena",
+          "mbid": "2b1e7c27-2663-43df-9c23-8601e173e6ef",
+          "url": "https://www.last.fm/music/Marina+Sena"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "9"
+        }
+      }
+    ],
+    "India": [
+      {
+        "name": "Life Goes On",
+        "duration": "208",
+        "listeners": "5467",
+        "mbid": "199ad635-5079-4070-8ace-1c54fa408f91",
+        "url": "https://www.last.fm/music/BTS/_/Life+Goes+On",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "BTS",
+          "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+          "url": "https://www.last.fm/music/BTS"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "0"
+        }
+      },
+      {
+        "name": "Stateside + Zara Larsson",
+        "duration": "176",
+        "listeners": "5005",
+        "mbid": "ffbf7862-2476-4164-ac32-f5904ccefe0f",
+        "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "PinkPantheress",
+          "mbid": "7441014f-f8f5-494f-81db-ff166fbc078d",
+          "url": "https://www.last.fm/music/PinkPantheress"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "1"
+        }
+      },
+      {
+        "name": "Who",
+        "duration": "170",
+        "listeners": "4992",
+        "mbid": "ef795484-964c-48db-adff-25295fd3330d",
+        "url": "https://www.last.fm/music/Jimin/_/Who",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Jimin",
+          "mbid": "d2582c77-6b0f-4b2f-802f-8f3cad1a5fec",
+          "url": "https://www.last.fm/music/Jimin"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "2"
+        }
+      },
+      {
+        "name": "Haegeum",
+        "duration": "168",
+        "listeners": "4922",
+        "mbid": "079a54bb-1a59-4e40-8456-7695b644d059",
+        "url": "https://www.last.fm/music/Agust+D/_/Haegeum",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Agust D",
+          "mbid": "f09d2950-e3c6-47b2-b21c-2bad2cd3f616",
+          "url": "https://www.last.fm/music/Agust+D"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "3"
+        }
+      },
+      {
+        "name": "Don’t Say You Love Me",
+        "duration": "180",
+        "listeners": "4920",
+        "mbid": "b9475022-5631-4574-a5bb-24e271a922e0",
+        "url": "https://www.last.fm/music/Jin/_/Don%E2%80%99t+Say+You+Love+Me",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Jin",
+          "mbid": "b1de066c-2766-4d73-86a6-ad28fe951687",
+          "url": "https://www.last.fm/music/Jin"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "4"
+        }
+      },
+      {
+        "name": "FAKE LOVE",
+        "duration": "242",
+        "listeners": "4748",
+        "mbid": "0811605e-ca01-4778-ab3c-87eacb6a2a71",
+        "url": "https://www.last.fm/music/BTS/_/FAKE+LOVE",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "BTS",
+          "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+          "url": "https://www.last.fm/music/BTS"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "5"
+        }
+      },
+      {
+        "name": "Dynamite",
+        "duration": "199",
+        "listeners": "4715",
+        "mbid": "22149c3c-2d46-4658-8336-8da4d2411ed7",
+        "url": "https://www.last.fm/music/BTS/_/Dynamite",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "BTS",
+          "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+          "url": "https://www.last.fm/music/BTS"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "6"
+        }
+      },
+      {
+        "name": "Blood Sweat & Tears",
+        "duration": "217",
+        "listeners": "4615",
+        "mbid": "0ba8a1fb-21a2-4cc1-a19d-98f2cbb96cdd",
+        "url": "https://www.last.fm/music/BTS/_/Blood+Sweat+&+Tears",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "BTS",
+          "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+          "url": "https://www.last.fm/music/BTS"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "7"
+        }
+      },
+      {
+        "name": "Killin' It Girl (feat. GloRilla)",
+        "duration": "0",
+        "listeners": "4612",
+        "url": "https://www.last.fm/music/j-hope/_/Killin%27+It+Girl+(feat.+GloRilla)",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "j-hope",
+          "url": "https://www.last.fm/music/j-hope"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "8"
+        }
+      },
+      {
+        "name": "Dope",
+        "duration": "240",
+        "listeners": "4612",
+        "mbid": "462b22fc-6316-4845-a70c-7564f5ab732e",
+        "url": "https://www.last.fm/music/BTS/_/Dope",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "BTS",
+          "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+          "url": "https://www.last.fm/music/BTS"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "9"
+        }
+      }
+    ]
+  },
+  "raw_track_details": [
+    {
+      "name": "American Girls",
+      "mbid": "2c85fe70-3c0e-4b43-8d97-f5b5c4757f3a",
+      "url": "https://www.last.fm/music/Harry+Styles/_/American+Girls",
+      "duration": "213000",
+      "streamable": {
+        "#text": "0",
+        "fulltrack": "0"
+      },
+      "listeners": "178780",
+      "playcount": "373400",
+      "artist": {
+        "name": "Harry Styles",
+        "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+        "url": "https://www.last.fm/music/Harry+Styles"
+      },
+      "album": {
+        "artist": "Harry Styles",
+        "title": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://www.last.fm/music/Harry+Styles/Kiss+All+The+Time.+Disco,+Occasionally.",
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c2bd6cb310d31e39faaa0f206cee4068.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c2bd6cb310d31e39faaa0f206cee4068.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c2bd6cb310d31e39faaa0f206cee4068.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c2bd6cb310d31e39faaa0f206cee4068.png",
+            "size": "extralarge"
+          }
+        ]
+      },
+      "toptags": {
+        "tag": []
+      },
+      "wiki": {
+        "published": "06 Mar 2026, 22:32",
+        "summary": "Using America as the punchline, “American Girls” is the second single off of Harry Styles’ fourth studio album, Kiss All The Time. Disco, Occasionally. The song has Styles' speaking on his personal experience of being a global phenomenon, describing how no matter where he travels—from city to city—his friends are drawn to American girls.\n\nThe idea could also be seen as a direct jab at the “Leave America” trend that occurred during his international leg of his concert <a href=\"http://www.last.fm/music/Harry+Styles/_/American+Girls\">Read more on Last.fm</a>.",
+        "content": "Using America as the punchline, “American Girls” is the second single off of Harry Styles’ fourth studio album, Kiss All The Time. Disco, Occasionally. The song has Styles' speaking on his personal experience of being a global phenomenon, describing how no matter where he travels—from city to city—his friends are drawn to American girls.\n\nThe idea could also be seen as a direct jab at the “Leave America” trend that occurred during his international leg of his concert, LOVE ON TOUR, where fans would shout the lyric “Leave America” during Styles' performance of his 2022 hit, “As It Was,” urging him to stop spending so much time in the United States and stay in the UK instead.\n\n“I think the song to me is actually quite a lonely song in a lot of ways. I watched my three closest friends get married and actually seeing them trust in something and risk something to find something truly fulfilling, in a way that isn’t as like shiny and on paper as exciting as, you know, watching them get married I was like, ‘I’m single, so I’m having all the fun,’ and ‘American Girls’ is actually about watching them get married and there just is a magic when you find the right person that you want to be with but I think watching them do that and seeing that it doesn’t come without any risk.“ —via Zane Lowe interview <a href=\"http://www.last.fm/music/Harry+Styles/_/American+Girls\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+      }
+    },
+    {
+      "name": "Ready, Steady, Go!",
+      "mbid": "4f255861-925f-4629-ab41-22f4b35d8585",
+      "url": "https://www.last.fm/music/Harry+Styles/_/Ready,+Steady,+Go%21",
+      "duration": "160000",
+      "streamable": {
+        "#text": "0",
+        "fulltrack": "0"
+      },
+      "listeners": "163061",
+      "playcount": "350668",
+      "artist": {
+        "name": "Harry Styles",
+        "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+        "url": "https://www.last.fm/music/Harry+Styles"
+      },
+      "album": {
+        "artist": "Harry Styles",
+        "title": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://www.last.fm/music/Harry+Styles/Kiss+All+The+Time.+Disco,+Occasionally.",
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c2bd6cb310d31e39faaa0f206cee4068.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c2bd6cb310d31e39faaa0f206cee4068.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c2bd6cb310d31e39faaa0f206cee4068.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c2bd6cb310d31e39faaa0f206cee4068.png",
+            "size": "extralarge"
+          }
+        ]
+      },
+      "toptags": {
+        "tag": []
+      }
+    },
+    {},
+    {
+      "name": "Are you listening yet?",
+      "mbid": "b009d3d9-5ce3-4fdb-b464-7262f3a7ab62",
+      "url": "https://www.last.fm/music/Harry+Styles/_/Are+you+listening+yet%3F",
+      "duration": "192000",
+      "streamable": {
+        "#text": "0",
+        "fulltrack": "0"
+      },
+      "listeners": "153625",
+      "playcount": "321989",
+      "artist": {
+        "name": "Harry Styles",
+        "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+        "url": "https://www.last.fm/music/Harry+Styles"
+      },
+      "album": {
+        "artist": "Harry Styles",
+        "title": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://www.last.fm/music/Harry+Styles/Kiss+All+The+Time.+Disco,+Occasionally.",
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c2bd6cb310d31e39faaa0f206cee4068.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c2bd6cb310d31e39faaa0f206cee4068.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c2bd6cb310d31e39faaa0f206cee4068.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c2bd6cb310d31e39faaa0f206cee4068.png",
+            "size": "extralarge"
+          }
+        ]
+      },
+      "toptags": {
+        "tag": []
+      },
+      "wiki": {
+        "published": "07 Mar 2026, 00:46",
+        "summary": "“Are You Listening Yet?” explores the idea of self-awareness and learning to pay attention to one’s inner voice. Throughout the song, Harry repeatedly asks the titular question as a form of self-reflection, confronting the patterns and habits that people often recognize but choose to ignore.\n\nIn an interview with Zane Lowe, Styles explained that this was one of the earliest songs written for the album and that it came from a moment when he began recognizing recurring situations in his life that he could no longer ignore. <a href=\"http://www.last.fm/music/Harry+Styles/_/Are+you+listening+yet%3F\">Read more on Last.fm</a>.",
+        "content": "“Are You Listening Yet?” explores the idea of self-awareness and learning to pay attention to one’s inner voice. Throughout the song, Harry repeatedly asks the titular question as a form of self-reflection, confronting the patterns and habits that people often recognize but choose to ignore.\n\nIn an interview with Zane Lowe, Styles explained that this was one of the earliest songs written for the album and that it came from a moment when he began recognizing recurring situations in his life that he could no longer ignore. The question “Are you listening yet?” acts as both a challenge and a reminder to acknowledge personal responsibility and emotional truth.\n\n“The oldest song on the record is ‘Are You Listening Yet?’ That was kind of at a time I was doing shows in New York. I was really like so in it and felt kind of thrashy. That song felt like a reaction to that. And I think I like the you know the the end refrain of ‘Are You Listening Yet? over and over again. It’s like by the time you are listening it’s finished.“ — via Zane Lowe interview <a href=\"http://www.last.fm/music/Harry+Styles/_/Are+you+listening+yet%3F\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+      }
+    },
+    {
+      "name": "Risk It All",
+      "mbid": "d672fe10-182c-4a17-a510-9f45b4a1f82f",
+      "url": "https://www.last.fm/music/Bruno+Mars/_/Risk+It+All",
+      "duration": "204000",
+      "streamable": {
+        "#text": "0",
+        "fulltrack": "0"
+      },
+      "listeners": "192384",
+      "playcount": "779308",
+      "artist": {
+        "name": "Bruno Mars",
+        "mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
+        "url": "https://www.last.fm/music/Bruno+Mars"
+      },
+      "album": {
+        "artist": "Bruno Mars",
+        "title": "The Romantic",
+        "url": "https://www.last.fm/music/Bruno+Mars/The+Romantic",
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0ed289f604d7fe09080da4f05e1ead.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0ed289f604d7fe09080da4f05e1ead.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0ed289f604d7fe09080da4f05e1ead.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0ed289f604d7fe09080da4f05e1ead.png",
+            "size": "extralarge"
+          }
+        ]
+      },
+      "toptags": {
+        "tag": []
+      }
+    },
+    {
+      "name": "Taste Back",
+      "mbid": "49562fdd-c325-415a-a2be-7d71f121b25d",
+      "url": "https://www.last.fm/music/Harry+Styles/_/Taste+Back",
+      "duration": "221000",
+      "streamable": {
+        "#text": "0",
+        "fulltrack": "0"
+      },
+      "listeners": "148117",
+      "playcount": "322777",
+      "artist": {
+        "name": "Harry Styles",
+        "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+        "url": "https://www.last.fm/music/Harry+Styles"
+      },
+      "album": {
+        "artist": "Harry Styles",
+        "title": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://www.last.fm/music/Harry+Styles/Kiss+All+The+Time.+Disco,+Occasionally.",
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c2bd6cb310d31e39faaa0f206cee4068.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c2bd6cb310d31e39faaa0f206cee4068.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c2bd6cb310d31e39faaa0f206cee4068.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c2bd6cb310d31e39faaa0f206cee4068.png",
+            "size": "extralarge"
+          }
+        ]
+      },
+      "toptags": {
+        "tag": []
+      },
+      "wiki": {
+        "published": "07 Mar 2026, 00:59",
+        "summary": "“Taste Back“ is the fifth track from Harry Styles's fourth studio album, Kiss All The Time. Disco, Occasionally.\n\nThe song explores the complex feelings that arise when a people from the past unexpectedly reappears. The song captures the uncomfortable familiarity of getting back in touch with a former partner, conversations that seem natural but are burdened by unresolved past issues. He wonders throughout the song if the other person has really changed or if they are just looking for solace and approval once more. <a href=\"http://www.last.fm/music/Harry+Styles/_/Taste+Back\">Read more on Last.fm</a>.",
+        "content": "“Taste Back“ is the fifth track from Harry Styles's fourth studio album, Kiss All The Time. Disco, Occasionally.\n\nThe song explores the complex feelings that arise when a people from the past unexpectedly reappears. The song captures the uncomfortable familiarity of getting back in touch with a former partner, conversations that seem natural but are burdened by unresolved past issues. He wonders throughout the song if the other person has really changed or if they are just looking for solace and approval once more. The song expresses the bittersweet pull of difficult past relationships by repeatedly asking if they’ve “got their taste back” or simply “need a little love.” This captures the indecisiveness between nostalgia and the difficulty to leave the past behind. <a href=\"http://www.last.fm/music/Harry+Styles/_/Taste+Back\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+      }
+    },
+    {
+      "name": "DtMF",
+      "mbid": "2944ab9d-2e49-4143-83fb-4e8499469654",
+      "url": "https://www.last.fm/music/Bad+Bunny/_/DtMF",
+      "duration": "237000",
+      "streamable": {
+        "#text": "0",
+        "fulltrack": "0"
+      },
+      "listeners": "1206778",
+      "playcount": "14880000",
+      "artist": {
+        "name": "Bad Bunny",
+        "mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+        "url": "https://www.last.fm/music/Bad+Bunny"
+      },
+      "album": {
+        "artist": "Bad Bunny",
+        "title": "DeBÍ TiRAR MáS FOToS",
+        "url": "https://www.last.fm/music/Bad+Bunny/DeB%C3%8D+TiRAR+M%C3%A1S+FOToS",
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7d0982b56a5e4304eb6207d6688c917a.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7d0982b56a5e4304eb6207d6688c917a.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7d0982b56a5e4304eb6207d6688c917a.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7d0982b56a5e4304eb6207d6688c917a.png",
+            "size": "extralarge"
+          }
+        ]
+      },
+      "toptags": {
+        "tag": [
+          {
+            "name": "latin",
+            "url": "https://www.last.fm/tag/latin"
+          },
+          {
+            "name": "melodic",
+            "url": "https://www.last.fm/tag/melodic"
+          },
+          {
+            "name": "vocal",
+            "url": "https://www.last.fm/tag/vocal"
+          },
+          {
+            "name": "Reggaeton",
+            "url": "https://www.last.fm/tag/Reggaeton"
+          },
+          {
+            "name": "Moderate",
+            "url": "https://www.last.fm/tag/Moderate"
+          }
+        ]
+      },
+      "wiki": {
+        "published": "08 Nov 2025, 14:47",
+        "summary": "\"DtMF\" (initialism for Debí Tirar Más Fotos, 'I Should Have Taken More Photos') is a song by Puerto Rican rapper Bad Bunny. It was released on January 23, 2025, as the fourth single from his sixth solo studio album, DeBÍ TiRAR MáS FOToS. A plena song, with elements of rap and Latin pop or reggaeton, the track sees Bad Bunny singing about how he regrets not having taken more pictures of people he had spent time with. At the 68th Annual Grammy Awards, it was nominated for Record of the Year and Song of the Year. <a href=\"http://www.last.fm/music/Bad+Bunny/_/DtMF\">Read more on Last.fm</a>.",
+        "content": "\"DtMF\" (initialism for Debí Tirar Más Fotos, 'I Should Have Taken More Photos') is a song by Puerto Rican rapper Bad Bunny. It was released on January 23, 2025, as the fourth single from his sixth solo studio album, DeBÍ TiRAR MáS FOToS. A plena song, with elements of rap and Latin pop or reggaeton, the track sees Bad Bunny singing about how he regrets not having taken more pictures of people he had spent time with. At the 68th Annual Grammy Awards, it was nominated for Record of the Year and Song of the Year.\n\nOn October 13, 2023, Bad Bunny released his fifth solo studio album, Nadie Sabe Lo Que Va a Pasar Mañana, which debuted at number one on the US Billboard 200, with the addition of reaching the top 10 in five more countries. It was also supported by his fifth concert tour, the Most Wanted Tour, spanning dates from February to June 2024, all of which sold out and broke multiple records. Between December 2024 and January 2025, he began promoting his sixth solo album, Debí Tirar Más Fotos, releasing supporting singles, an accompanying short film and revealing its tracklist, where \"DtMF\" was featured as the 16th track and its title track.\n\n\"DtMF\" was released for digital download and streaming on January 5, 2025, through Rimas Entertainment, as part of Debí Tirar Más Fotos. Only a few days after the release of the track, it went viral on TikTok. Based on its lyrics of looking back on memories, the song was used as a dedication to loved ones with pictures that are special to users of the sound, mainly of those who had passed. Bad Bunny later shared his reaction on the trend on the platform, which sees him in tears.\n\nIn a ranking of all album tracks for Billboard, editors placed it sixth, saying that the song reminds listeners to value \"the meaningful aspects of life\" over superficiality. They particularly praised the \"lively\" interplay of reggaeton as a modern element and \"a deep sense of nostalgia\". Maya Georgi of Rolling Stone thought the song was the album cover come to life, as the chants sound like they were recorded \"in the emerald green backyard displayed\". <a href=\"http://www.last.fm/music/Bad+Bunny/_/DtMF\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+      }
+    },
+    {
+      "name": "Coming Up Roses",
+      "mbid": "765c4880-c4b2-4958-8a09-59feba72d3ea",
+      "url": "https://www.last.fm/music/Harry+Styles/_/Coming+Up+Roses",
+      "duration": "248000",
+      "streamable": {
+        "#text": "0",
+        "fulltrack": "0"
+      },
+      "listeners": "132298",
+      "playcount": "295167",
+      "artist": {
+        "name": "Harry Styles",
+        "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+        "url": "https://www.last.fm/music/Harry+Styles"
+      },
+      "album": {
+        "artist": "Harry Styles",
+        "title": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://www.last.fm/music/Harry+Styles/Kiss+All+The+Time.+Disco,+Occasionally.",
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c2bd6cb310d31e39faaa0f206cee4068.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c2bd6cb310d31e39faaa0f206cee4068.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c2bd6cb310d31e39faaa0f206cee4068.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c2bd6cb310d31e39faaa0f206cee4068.png",
+            "size": "extralarge"
+          }
+        ]
+      },
+      "toptags": {
+        "tag": []
+      }
+    },
+    {
+      "name": "Aperture",
+      "mbid": "2b1c66e1-4023-4294-813a-9d7d921bffbc",
+      "url": "https://www.last.fm/music/Harry+Styles/_/Aperture",
+      "duration": "311000",
+      "streamable": {
+        "#text": "0",
+        "fulltrack": "0"
+      },
+      "listeners": "497011",
+      "playcount": "3808330",
+      "artist": {
+        "name": "Harry Styles",
+        "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+        "url": "https://www.last.fm/music/Harry+Styles"
+      },
+      "album": {
+        "artist": "Harry Styles",
+        "title": "Aperture",
+        "url": "https://www.last.fm/music/Harry+Styles/Aperture",
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fd4cd1ae266ce2b4a99c8fd8345a9997.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fd4cd1ae266ce2b4a99c8fd8345a9997.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fd4cd1ae266ce2b4a99c8fd8345a9997.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fd4cd1ae266ce2b4a99c8fd8345a9997.png",
+            "size": "extralarge"
+          }
+        ]
+      },
+      "toptags": {
+        "tag": [
+          {
+            "name": "House",
+            "url": "https://www.last.fm/tag/House"
+          },
+          {
+            "name": "electronic",
+            "url": "https://www.last.fm/tag/electronic"
+          },
+          {
+            "name": "alternative",
+            "url": "https://www.last.fm/tag/alternative"
+          },
+          {
+            "name": "techno",
+            "url": "https://www.last.fm/tag/techno"
+          },
+          {
+            "name": "Progressive House",
+            "url": "https://www.last.fm/tag/Progressive+House"
+          }
+        ]
+      },
+      "wiki": {
+        "published": "24 Jan 2026, 02:25",
+        "summary": "“Aperture” is the first single from Harry Styles' fourth studio album, Kiss All The Time. Disco, Occasionally..\n\nOn January 17, a clock appeared on his official website webelongtogether.co with the words “Kiss and Disco” on it. Two days later, fans discovered that some possible lyrics for the single were sent in response to specific emojis sent to the official HSHQ number. On January 20, the image behind the clock changed and the clock moved. <a href=\"http://www.last.fm/music/Harry+Styles/_/Aperture\">Read more on Last.fm</a>.",
+        "content": "“Aperture” is the first single from Harry Styles' fourth studio album, Kiss All The Time. Disco, Occasionally..\n\nOn January 17, a clock appeared on his official website webelongtogether.co with the words “Kiss and Disco” on it. Two days later, fans discovered that some possible lyrics for the single were sent in response to specific emojis sent to the official HSHQ number. On January 20, the image behind the clock changed and the clock moved. When the clock hands aligned with the word “Disco,” Harry officially announced the song on his social media accounts.\n\n“It was kind of amazing for me. I think it was like we had most of the album done\nand um a lot of it was kind of exploring a lot of the themes that I think the song is exploring. And then I think getting this song at the end, it was kind of when we were feeling like our freest and just really like having a lot of fun at that point and and it kind of felt like oh almost like the mission statement of what the album was about. I think it was, you know, I’d like had a couple years away from um like a lot of work stuff and had a lot of like big realizations and and kind of just generally opening up more to the world. And I think like allowing some more\nlike positive things to come into my life and that and that was kind of the culmination of all of that happening around the making of this record. Um, so it was kind of this perfect little like bow on it. And then when this song happened, it was like, ‘Oh, the record’s finished.’ Um, so it’s always been like a real like celebration song for me. this and and um and and a big driver of kind of the want to like be back in like rooms full of people and stuff. So yeah, it’s a song that like means a lot to me. Um, so very excited to be like putting that out first and it be the first thing that people hear.“ —via BBC Radio 1\n\n“I think the song was the last song that was made for the album. So it kind of ended up being this really perfect like mission statement of what a lot of the album was about. Um, I think the opening and kind of allowing for more things and, in turn, allowing for more like positive things to come into your life was a lot about what this song and this album as a whole was about for me. Um, and also the kind of openness to like be accepting of like transitions and be accepting of flaws and your own mistakes and and being able to look at those things and go like I was wrong there or I didn’t behave, you know, in line with who I want to be there. And being able to like acknowledge those things and therefore go through a change and make some changes you want to make um is like more powerful than kind of denying them or um you know refusing to like change at all.“ —via BBC Radio 2 <a href=\"http://www.last.fm/music/Harry+Styles/_/Aperture\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+      }
+    },
+    {
+      "name": "The Waiting Game",
+      "mbid": "5943585e-421c-449e-8f19-10a2f5740260",
+      "url": "https://www.last.fm/music/Harry+Styles/_/The+Waiting+Game",
+      "duration": "169000",
+      "streamable": {
+        "#text": "0",
+        "fulltrack": "0"
+      },
+      "listeners": "142221",
+      "playcount": "293376",
+      "artist": {
+        "name": "Harry Styles",
+        "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+        "url": "https://www.last.fm/music/Harry+Styles"
+      },
+      "album": {
+        "artist": "Harry Styles",
+        "title": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://www.last.fm/music/Harry+Styles/Kiss+All+The+Time.+Disco,+Occasionally.",
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c2bd6cb310d31e39faaa0f206cee4068.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c2bd6cb310d31e39faaa0f206cee4068.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c2bd6cb310d31e39faaa0f206cee4068.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c2bd6cb310d31e39faaa0f206cee4068.png",
+            "size": "extralarge"
+          }
+        ]
+      },
+      "toptags": {
+        "tag": []
+      }
+    }
+  ],
+  "raw_artist_details": [
+    {
+      "name": "Harry Styles",
+      "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+      "url": "https://www.last.fm/music/Harry+Styles",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "extralarge"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "mega"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": ""
+        }
+      ],
+      "streamable": "0",
+      "ontour": "1",
+      "stats": {
+        "listeners": "3204096",
+        "playcount": "408317231"
+      },
+      "similar": {
+        "artist": [
+          {
+            "name": "Louis Tomlinson",
+            "url": "https://www.last.fm/music/Louis+Tomlinson",
+            "image": [
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+              }
+            ]
+          },
+          {
+            "name": "One Direction",
+            "url": "https://www.last.fm/music/One+Direction",
+            "image": [
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+              }
+            ]
+          },
+          {
+            "name": "Niall Horan",
+            "url": "https://www.last.fm/music/Niall+Horan",
+            "image": [
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+              }
+            ]
+          },
+          {
+            "name": "ZAYN",
+            "url": "https://www.last.fm/music/ZAYN",
+            "image": [
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+              }
+            ]
+          },
+          {
+            "name": "Olivia Rodrigo",
+            "url": "https://www.last.fm/music/Olivia+Rodrigo",
+            "image": [
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+              }
+            ]
+          }
+        ]
+      },
+      "tags": {
+        "tag": [
+          {
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "name": "rock",
+            "url": "https://www.last.fm/tag/rock"
+          },
+          {
+            "name": "pop rock",
+            "url": "https://www.last.fm/tag/pop+rock"
+          },
+          {
+            "name": "alternative",
+            "url": "https://www.last.fm/tag/alternative"
+          },
+          {
+            "name": "british",
+            "url": "https://www.last.fm/tag/british"
+          }
+        ]
+      },
+      "bio": {
+        "links": {
+          "link": {
+            "#text": "",
+            "rel": "original",
+            "href": "https://last.fm/music/Harry+Styles/+wiki"
+          }
+        },
+        "published": "24 Aug 2011, 17:11",
+        "summary": "Harry Edward Styles (born 1 February 1994 in Redditich, Worcestershire, England) is a three-time GRAMMY award-winning, British singer, songwriter, and actor. As a member of the British/Irish boy band One Direction, singer Harry Styles topped the charts, toured the world, and sold millions of albums before going solo in 2016. Styles was raised in Holmes Chapel, Cheshire, and he made his first foray into music with a high-school band named White Eskimo. <a href=\"https://www.last.fm/music/Harry+Styles\">Read more on Last.fm</a>",
+        "content": "Harry Edward Styles (born 1 February 1994 in Redditich, Worcestershire, England) is a three-time GRAMMY award-winning, British singer, songwriter, and actor. As a member of the British/Irish boy band One Direction, singer Harry Styles topped the charts, toured the world, and sold millions of albums before going solo in 2016. Styles was raised in Holmes Chapel, Cheshire, and he made his first foray into music with a high-school band named White Eskimo. In 2010, he left home and joined the seventh season of The X Factor, where fate and Simon Cowell would eventually lead him toward a life-changing opportunity with four other young men. As One Direction, Styles and his group mates Zayn Malik, Louis Tomlinson, Niall Horan, and Liam Payne would release five albums from 2011 to 2015, hitting number one across the globe and selling millions of records to an adoring and rabid fan base that drew comparisons to the fervor at the height of Beatlemania. In early 2016, after Malik had already parted ways with 1D, the remaining foursome announced their indefinite hiatus.\n\nMonths later, Styles signed a solo deal with Columbia Records. Reflecting the influence of childhood favorites like Queen, Elton John, Fleetwood Mac, The Rolling Stones, Freddy Mercury, and The Beatles, Styles' solo material took a more serious and rock-based approach, while still delivering the pop sound his faithful 1D fans desired. With the help of Grammy-winning producer Jeff Bhasker (who had worked with Kanye West and Bruno Mars), Styles put together a small band and, after rehearsing the songs, headed to Jamaica for two months to record an album. \"Sign of the Times\", a plaintive ballad, was released as its first single in April 2017. The self-titled full-length album Harry Styles followed in May and debuted at the top of the Billboard 200. After two world tours, Harry set to write his sophomore album Fine Line, releasing the hit songs \"Lights Up\",  \"Watermelon Sugar\" and \"Adore You\" as the singles.\n\nFine Line was released on 13 December 2019 by Columbia and Erskine Records. On March 14, 2021, Harry received the Grammy Award for Best Pop Solo Performance for \"Watermelon Sugar\" at the 63rd Annual Grammy Awards. He was also nominated for Best Music Video with \"Adore You\" and for Best Pop Vocal Album for his \"Fine Line\" album. In May of the same year, Styles also won the Brit Award for British Single for \"Watermelon Sugar\". \n\nOn May 20, 2022, Styles released his third studio album, titled  Harry’s House. Its promotional single \"As It Was\" went on to break world records and earn Styles the title (male) for the most-streamed track on Spotify in 24 hours. <a href=\"https://www.last.fm/music/Harry+Styles\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+      }
+    },
+    {
+      "name": "PinkPantheress",
+      "mbid": "7441014f-f8f5-494f-81db-ff166fbc078d",
+      "url": "https://www.last.fm/music/PinkPantheress",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "extralarge"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "mega"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": ""
+        }
+      ],
+      "streamable": "0",
+      "ontour": "1",
+      "stats": {
+        "listeners": "2940022",
+        "playcount": "304579252"
+      },
+      "similar": {
+        "artist": [
+          {
+            "name": "Lil Hero",
+            "url": "https://www.last.fm/music/Lil+Hero",
+            "image": [
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+              }
+            ]
+          },
+          {
+            "name": "Addison Rae",
+            "url": "https://www.last.fm/music/Addison+Rae",
+            "image": [
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+              }
+            ]
+          },
+          {
+            "name": "Doja Cat",
+            "url": "https://www.last.fm/music/Doja+Cat",
+            "image": [
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+              }
+            ]
+          },
+          {
+            "name": "Rochelle Jordan",
+            "url": "https://www.last.fm/music/Rochelle+Jordan",
+            "image": [
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+              }
+            ]
+          },
+          {
+            "name": "Kelela",
+            "url": "https://www.last.fm/music/Kelela",
+            "image": [
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+              }
+            ]
+          }
+        ]
+      },
+      "tags": {
+        "tag": [
+          {
+            "name": "electronic",
+            "url": "https://www.last.fm/tag/electronic"
+          },
+          {
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "name": "2-step",
+            "url": "https://www.last.fm/tag/2-step"
+          },
+          {
+            "name": "rnb",
+            "url": "https://www.last.fm/tag/rnb"
+          },
+          {
+            "name": "dance-pop",
+            "url": "https://www.last.fm/tag/dance-pop"
+          }
+        ]
+      },
+      "bio": {
+        "links": {
+          "link": {
+            "#text": "",
+            "rel": "original",
+            "href": "https://last.fm/music/PinkPantheress/+wiki"
+          }
+        },
+        "published": "27 Jul 2021, 11:02",
+        "summary": "PinkPantheress (Victoria Beverley Walker, born 19 April 2001) is a British singer-songwriter and record producer. Her music is noted for its use of samples and personal, diaristic lyrics.\n\nBorn in Bath, Somerset, and raised in Kent, she began her musical career in 2021 while attending university in London, producing songs using GarageBand and sharing them on SoundCloud and TikTok. Tracks such as \"Break It Off\" gained popularity on TikTok, leading <a href=\"https://www.last.fm/music/PinkPantheress\">Read more on Last.fm</a>",
+        "content": "PinkPantheress (Victoria Beverley Walker, born 19 April 2001) is a British singer-songwriter and record producer. Her music is noted for its use of samples and personal, diaristic lyrics.\n\nBorn in Bath, Somerset, and raised in Kent, she began her musical career in 2021 while attending university in London, producing songs using GarageBand and sharing them on SoundCloud and TikTok. Tracks such as \"Break It Off\" gained popularity on TikTok, leading to her signing with Parlophone and Elektra Records and the release of her debut mixtape \"To Hell with It\" in 2021. She won BBC's Sound of 2022 poll after singles \"Just for Me\" and \"Pain\" reached the top 40 of the UK Singles Chart. Her 2022 single \"Boy's a Liar\" reached number two in the UK.\n\nHer debut studio album, \"Heaven Knows\" (2023), included the UK top-20 song \"Nice to Meet You\" and \"Boy's a Liar Pt. 2\", a remix of \"Boy's a Liar\" with American rapper Ice Spice, which peaked at number three on the Billboard Hot 100. The album was supported by her headlining Capable of Love Tour in 2024. Her second mixtape, \"Fancy That\" (2025), produced the UK top-40 singles \"Tonight\" and \"Illegal\".\n\nPinkPantheress has received nominations for three Brit Awards and was named Producer of the Year by Billboard Women in Music in 2024. Her songs, often brief in length and incorporating samples from 1990s and 2000s music, encompass genres including alt-pop, bedroom pop, drum and bass, and 2-step garage. <a href=\"https://www.last.fm/music/PinkPantheress\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+      }
+    },
+    {
+      "name": "Bruno Mars",
+      "mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
+      "url": "https://www.last.fm/music/Bruno+Mars",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "extralarge"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "mega"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": ""
+        }
+      ],
+      "streamable": "0",
+      "ontour": "1",
+      "stats": {
+        "listeners": "5156695",
+        "playcount": "288830095"
+      },
+      "similar": {
+        "artist": [
+          {
+            "name": "Bruno Mars, Anderson .Paak, Silk Sonic",
+            "url": "https://www.last.fm/music/Bruno+Mars,+Anderson+.Paak,+Silk+Sonic",
+            "image": [
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+              }
+            ]
+          },
+          {
+            "name": "Charlie Puth",
+            "url": "https://www.last.fm/music/Charlie+Puth",
+            "image": [
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+              }
+            ]
+          },
+          {
+            "name": "Bruno Mars, Anderson .Paak & Silk Sonic",
+            "url": "https://www.last.fm/music/Bruno+Mars,+Anderson+.Paak+&+Silk+Sonic",
+            "image": [
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+              }
+            ]
+          },
+          {
+            "name": "Ne-Yo",
+            "url": "https://www.last.fm/music/Ne-Yo",
+            "image": [
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+              }
+            ]
+          },
+          {
+            "name": "Rihanna",
+            "url": "https://www.last.fm/music/Rihanna",
+            "image": [
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+              }
+            ]
+          }
+        ]
+      },
+      "tags": {
+        "tag": [
+          {
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          },
+          {
+            "name": "rnb",
+            "url": "https://www.last.fm/tag/rnb"
+          },
+          {
+            "name": "male vocalists",
+            "url": "https://www.last.fm/tag/male+vocalists"
+          },
+          {
+            "name": "r&b",
+            "url": "https://www.last.fm/tag/r&b"
+          },
+          {
+            "name": "slow jams",
+            "url": "https://www.last.fm/tag/slow+jams"
+          }
+        ]
+      },
+      "bio": {
+        "links": {
+          "link": {
+            "#text": "",
+            "rel": "original",
+            "href": "https://last.fm/music/Bruno+Mars/+wiki"
+          }
+        },
+        "published": "31 Mar 2010, 04:34",
+        "summary": "Peter Gene Hernandez (born October 8, 1985 in Honolulu, Hawaii, USA), known professionally as Bruno Mars, is an American singer, songwriter, record producer, musician, and dancer. He is known for his stage performances, retro showmanship, and for performing in a wide range of musical styles, including pop, R&B, funk, soul, reggae, disco, and rock. Mars is accompanied by his band, the Hooligans, who play a variety of instruments, such as electric guitar, bass, piano, keyboards, drums, and horns, and also serve as backup singers and dancers. <a href=\"https://www.last.fm/music/Bruno+Mars\">Read more on Last.fm</a>",
+        "content": "Peter Gene Hernandez (born October 8, 1985 in Honolulu, Hawaii, USA), known professionally as Bruno Mars, is an American singer, songwriter, record producer, musician, and dancer. He is known for his stage performances, retro showmanship, and for performing in a wide range of musical styles, including pop, R&B, funk, soul, reggae, disco, and rock. Mars is accompanied by his band, the Hooligans, who play a variety of instruments, such as electric guitar, bass, piano, keyboards, drums, and horns, and also serve as backup singers and dancers.\n\nBorn and raised in Honolulu, Hawaii, Mars moved to Los Angeles in 2003 to pursue a musical career. In 2009, he co-founded the production team The Smeezingtons, responsible for various successful singles for Mars himself and other artists. He rose to fame in 2010 buoyed by the success of \"Nothin' on You\" by B.o.B and \"Billionaire\" by Travie McCoy, both of which featured his vocals. That year, Mars released his debut studio album Doo-Wops & Hooligans, which blended pop with reggae pop and R&B. It spawned the international number-one singles \"Just the Way You Are\", \"Grenade\", and \"The Lazy Song\". Drawing inspiration from disco, funk, rock, reggae and soul genres, his second studio album, Unorthodox Jukebox (2012), was his first number one on the Billboard 200. It amassed two Billboard Hot 100 number-one hits, \"Locked Out of Heaven\" and \"When I Was Your Man\".\n\nIn 2014, Mars was featured on Mark Ronson's \"Uptown Funk\", which topped various music charts, spending a total of fourteen and seven weeks atop the Billboard Hot 100 and the UK Singles Chart, respectively. Mars's third studio album, the R&B-focused, 24K Magic (2016), received seven Grammy Awards, winning the major categories of Album of the Year, Record of the Year, and Song of the Year. The album also yielded the top-five singles \"24K Magic\", \"That's What I Like\", his seventh Billboard Hot 100 number-one single, and a remix of \"Finesse\" featuring Cardi B. In 2021, Mars collaborated with Anderson .Paak as Silk Sonic on the full-length album An Evening with Silk Sonic, whose single \"Leave the Door Open\" topped the Billboard Hot 100.\n\nMars has sold over 130 million records worldwide, making him one of the best-selling music artists of all time. He has released eight number-one singles on the Billboard Hot 100 since his career launched in 2010, attaining his first five faster than any male artist since Elvis Presley. Mars became the first artist to receive five diamond certified songs in the United States. He was included in Music Week and Billboard magazine as one of the best songwriters of 2011 and 2013, respectively. Mars has received several awards and nominations, including 11 Grammy Awards, three Brit Awards, nine American Music Awards, 10 Soul Train Awards and holds three Guinness world records. He appeared in Time magazine's annual list of the 100 most influential people in the world in 2011, Forbes magazine's list of \"30 Under 30\" in 2013, and Forbes's Celebrity 100 in 2014, 2018, and 2019.\nWorld's second best singer right now. <a href=\"https://www.last.fm/music/Bruno+Mars\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+      }
+    },
+    {
+      "name": "Bad Bunny",
+      "mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+      "url": "https://www.last.fm/music/Bad+Bunny",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "extralarge"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "mega"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": ""
+        }
+      ],
+      "streamable": "0",
+      "ontour": "1",
+      "stats": {
+        "listeners": "2487357",
+        "playcount": "385409910"
+      },
+      "similar": {
+        "artist": [
+          {
+            "name": "Rauw Alejandro",
+            "url": "https://www.last.fm/music/Rauw+Alejandro",
+            "image": [
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+              }
+            ]
+          },
+          {
+            "name": "Trio Vegabajeño",
+            "url": "https://www.last.fm/music/Trio+Vegabaje%C3%B1o",
+            "image": [
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+              }
+            ]
+          },
+          {
+            "name": "JHAYCO",
+            "url": "https://www.last.fm/music/JHAYCO",
+            "image": [
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+              }
+            ]
+          },
+          {
+            "name": "Tainy",
+            "url": "https://www.last.fm/music/Tainy",
+            "image": [
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+              }
+            ]
+          },
+          {
+            "name": "J Balvin",
+            "url": "https://www.last.fm/music/J+Balvin",
+            "image": [
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+              }
+            ]
+          }
+        ]
+      },
+      "tags": {
+        "tag": [
+          {
+            "name": "Reggaeton",
+            "url": "https://www.last.fm/tag/Reggaeton"
+          },
+          {
+            "name": "trap",
+            "url": "https://www.last.fm/tag/trap"
+          },
+          {
+            "name": "latin",
+            "url": "https://www.last.fm/tag/latin"
+          },
+          {
+            "name": "puerto rico",
+            "url": "https://www.last.fm/tag/puerto+rico"
+          },
+          {
+            "name": "trap latino",
+            "url": "https://www.last.fm/tag/trap+latino"
+          }
+        ]
+      },
+      "bio": {
+        "links": {
+          "link": {
+            "#text": "",
+            "rel": "original",
+            "href": "https://last.fm/music/Bad+Bunny/+wiki"
+          }
+        },
+        "published": "15 Apr 2018, 13:49",
+        "summary": "Benito Antonio Martínez Ocasio (born March 10, 1994), known professionally as Bad Bunny, is a Puerto Rican rapper and singer. He is recognized as a leading figure in Latin trap and has played a significant role in popularizing Spanish-language rap in global mainstream music. Bad Bunny became the first non-English-language artist to be Spotify's most-streamed artist of the year, achieving this distinction in three consecutive years from 2020 to 2022. His 2022 album \"Un Verano Sin Ti\" holds the record as the most-streamed album on Spotify. <a href=\"https://www.last.fm/music/Bad+Bunny\">Read more on Last.fm</a>",
+        "content": "Benito Antonio Martínez Ocasio (born March 10, 1994), known professionally as Bad Bunny, is a Puerto Rican rapper and singer. He is recognized as a leading figure in Latin trap and has played a significant role in popularizing Spanish-language rap in global mainstream music. Bad Bunny became the first non-English-language artist to be Spotify's most-streamed artist of the year, achieving this distinction in three consecutive years from 2020 to 2022. His 2022 album \"Un Verano Sin Ti\" holds the record as the most-streamed album on Spotify.\n\nBorn in Vega Baja, Puerto Rico, Bad Bunny gained initial attention in 2016 with the release of the song \"Diles\", which led to a contract with the label Hear This Music. His rise continued with collaborations such as \"I Like It\" with Cardi B and J Balvin, which topped the Billboard Hot 100, and the hit single \"Mía\" featuring Drake. His debut studio album \"X 100pre\" (2018) reached number 10 on the US Billboard 200. In 2019, he released a collaborative album with J Balvin titled \"Oasis\", which reached number nine on the same chart.\n\nHis second solo album, \"YHLQMDLG\" (2020), became the highest-charting all-Spanish-language album on the Billboard 200 at the time, reaching number two. It was followed by the compilation album \"Las que no iban a salir\" later that year. His third studio album, \"El Último Tour Del Mundo\" (2020), made history as the first all-Spanish-language album to reach number one on the Billboard 200. The album's lead single, \"Dákiti\", entered the top ten of the Billboard Hot 100.\n\n\"Un Verano Sin Ti\", released in 2022, spent 13 weeks at number one on the Billboard 200 and was named the best-performing album of the year in both the United States and globally. It produced several commercially successful singles and became the first Spanish-language album to receive a nomination for the Grammy Award for Album of the Year. He continued his commercial success with two more number-one albums on the Billboard 200: \"Nadie Sabe Lo Que Va a Pasar Mañana\" (2023) and \"Debí Tirar Más Fotos\" (2025).\n\nOver the course of his career, Bad Bunny has received numerous awards, including three Grammy Awards, eleven Latin Grammy Awards, eight Billboard Music Awards, and thirteen Lo Nuestro Awards. Billboard named him Artist of the Year in 2022. As of February 2026, Bad Bunny has surpassed 125 million equivalent album sales with his 2025 release, Debí Tirar Más Fotos (DTMF), saw massive success, with one week posting 250,000 units sold in early 2026, with 85,000 vinyl units sold, 6 Grammy out of 16 nominations and the 4th most watched Super Bowl Halftime Show.\n\n\nIn addition to his music career, Bad Bunny has participated in professional wrestling. He made his WWE debut in 2021 and has since appeared in various events, including WrestleMania 37, the 2022 Royal Rumble, and the 2023 Backlash event. He is also a former WWE 24/7 Champion.\n\n\nE também é o mais novo artista pop genérico que todo mundo vai esquecer daqui no máximo 3 anos <a href=\"https://www.last.fm/music/Bad+Bunny\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+      }
+    }
+  ],
+  "normalized_tracks": [
+    {
+      "artist": "Harry Styles",
+      "track": "American Girls",
+      "rank": 1,
+      "streams": 8305609,
+      "listeners": 178780,
+      "playcount": 373400,
+      "artist_listeners": 3204096,
+      "artist_playcount": 408317231,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "United States",
+        "United Kingdom",
+        "Canada",
+        "Australia"
+      ],
+      "track_url": "https://www.last.fm/music/Harry+Styles/_/American+Girls",
+      "artist_url": "https://www.last.fm/music/Harry+Styles",
+      "summary": "Harry Edward Styles (born 1 February 1994 in Redditich, Worcestershire, England) is a three-time GRAMMY award-winning, British singer, songwriter, and actor. As a member of the British/Irish boy band One Direction, singer Harry Styles topped the charts, toured the world, and sold millions of albums before going solo in 2016. Styles was raised in Holmes Chapel, Cheshire, and he made his first foray into music with a high-school band named White Eskimo. <a href=\"https://www.last.fm/music/Harry+Styles\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global"
+    },
+    {
+      "artist": "Harry Styles",
+      "track": "Ready, Steady, Go!",
+      "rank": 2,
+      "streams": 6122110,
+      "listeners": 163061,
+      "playcount": 350668,
+      "artist_listeners": 3204096,
+      "artist_playcount": 408317231,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "United States",
+        "United Kingdom",
+        "Australia"
+      ],
+      "track_url": "https://www.last.fm/music/Harry+Styles/_/Ready,+Steady,+Go%21",
+      "artist_url": "https://www.last.fm/music/Harry+Styles",
+      "summary": "Harry Edward Styles (born 1 February 1994 in Redditich, Worcestershire, England) is a three-time GRAMMY award-winning, British singer, songwriter, and actor. As a member of the British/Irish boy band One Direction, singer Harry Styles topped the charts, toured the world, and sold millions of albums before going solo in 2016. Styles was raised in Holmes Chapel, Cheshire, and he made his first foray into music with a high-school band named White Eskimo. <a href=\"https://www.last.fm/music/Harry+Styles\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global"
+    },
+    {
+      "artist": "PinkPantheress",
+      "track": "Stateside + Zara Larsson (w/ Zara Larsson)",
+      "rank": 3,
+      "streams": 5731272,
+      "listeners": 0,
+      "playcount": 0,
+      "artist_listeners": 2940022,
+      "artist_playcount": 304579252,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [],
+      "track_url": "",
+      "artist_url": "https://www.last.fm/music/PinkPantheress",
+      "summary": "PinkPantheress (Victoria Beverley Walker, born 19 April 2001) is a British singer-songwriter and record producer. Her music is noted for its use of samples and personal, diaristic lyrics.\n\nBorn in Bath, Somerset, and raised in Kent, she began her musical career in 2021 while attending university in London, producing songs using GarageBand and sharing them on SoundCloud and TikTok. Tracks such as \"Break It Off\" gained popularity on TikTok, leading <a href=\"https://www.last.fm/music/PinkPantheress\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global"
+    },
+    {
+      "artist": "Harry Styles",
+      "track": "Are You Listening Yet?",
+      "rank": 4,
+      "streams": 5668994,
+      "listeners": 153625,
+      "playcount": 321989,
+      "artist_listeners": 3204096,
+      "artist_playcount": 408317231,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "United Kingdom",
+        "Australia"
+      ],
+      "track_url": "https://www.last.fm/music/Harry+Styles/_/Are+you+listening+yet%3F",
+      "artist_url": "https://www.last.fm/music/Harry+Styles",
+      "summary": "Harry Edward Styles (born 1 February 1994 in Redditich, Worcestershire, England) is a three-time GRAMMY award-winning, British singer, songwriter, and actor. As a member of the British/Irish boy band One Direction, singer Harry Styles topped the charts, toured the world, and sold millions of albums before going solo in 2016. Styles was raised in Holmes Chapel, Cheshire, and he made his first foray into music with a high-school band named White Eskimo. <a href=\"https://www.last.fm/music/Harry+Styles\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global"
+    },
+    {
+      "artist": "Bruno Mars",
+      "track": "Risk It All",
+      "rank": 5,
+      "streams": 5563594,
+      "listeners": 192384,
+      "playcount": 779308,
+      "artist_listeners": 5156695,
+      "artist_playcount": 288830095,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "United States",
+        "Canada"
+      ],
+      "track_url": "https://www.last.fm/music/Bruno+Mars/_/Risk+It+All",
+      "artist_url": "https://www.last.fm/music/Bruno+Mars",
+      "summary": "Peter Gene Hernandez (born October 8, 1985 in Honolulu, Hawaii, USA), known professionally as Bruno Mars, is an American singer, songwriter, record producer, musician, and dancer. He is known for his stage performances, retro showmanship, and for performing in a wide range of musical styles, including pop, R&B, funk, soul, reggae, disco, and rock. Mars is accompanied by his band, the Hooligans, who play a variety of instruments, such as electric guitar, bass, piano, keyboards, drums, and horns, and also serve as backup singers and dancers. <a href=\"https://www.last.fm/music/Bruno+Mars\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global"
+    },
+    {
+      "artist": "Harry Styles",
+      "track": "Taste Back",
+      "rank": 6,
+      "streams": 5557886,
+      "listeners": 148117,
+      "playcount": 322777,
+      "artist_listeners": 3204096,
+      "artist_playcount": 408317231,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "United Kingdom"
+      ],
+      "track_url": "https://www.last.fm/music/Harry+Styles/_/Taste+Back",
+      "artist_url": "https://www.last.fm/music/Harry+Styles",
+      "summary": "Harry Edward Styles (born 1 February 1994 in Redditich, Worcestershire, England) is a three-time GRAMMY award-winning, British singer, songwriter, and actor. As a member of the British/Irish boy band One Direction, singer Harry Styles topped the charts, toured the world, and sold millions of albums before going solo in 2016. Styles was raised in Holmes Chapel, Cheshire, and he made his first foray into music with a high-school band named White Eskimo. <a href=\"https://www.last.fm/music/Harry+Styles\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global"
+    },
+    {
+      "artist": "Bad Bunny",
+      "track": "DtMF",
+      "rank": 7,
+      "streams": 5345427,
+      "listeners": 1206778,
+      "playcount": 14880000,
+      "artist_listeners": 2487357,
+      "artist_playcount": 385409910,
+      "tags": [
+        "latin",
+        "melodic",
+        "vocal",
+        "Reggaeton",
+        "Moderate"
+      ],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "United States",
+        "Canada"
+      ],
+      "track_url": "https://www.last.fm/music/Bad+Bunny/_/DtMF",
+      "artist_url": "https://www.last.fm/music/Bad+Bunny",
+      "summary": "Benito Antonio Martínez Ocasio (born March 10, 1994), known professionally as Bad Bunny, is a Puerto Rican rapper and singer. He is recognized as a leading figure in Latin trap and has played a significant role in popularizing Spanish-language rap in global mainstream music. Bad Bunny became the first non-English-language artist to be Spotify's most-streamed artist of the year, achieving this distinction in three consecutive years from 2020 to 2022. His 2022 album \"Un Verano Sin Ti\" holds the record as the most-streamed album on Spotify. <a href=\"https://www.last.fm/music/Bad+Bunny\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global"
+    },
+    {
+      "artist": "Harry Styles",
+      "track": "Coming Up Roses",
+      "rank": 8,
+      "streams": 5209204,
+      "listeners": 132298,
+      "playcount": 295167,
+      "artist_listeners": 3204096,
+      "artist_playcount": 408317231,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [],
+      "track_url": "https://www.last.fm/music/Harry+Styles/_/Coming+Up+Roses",
+      "artist_url": "https://www.last.fm/music/Harry+Styles",
+      "summary": "Harry Edward Styles (born 1 February 1994 in Redditich, Worcestershire, England) is a three-time GRAMMY award-winning, British singer, songwriter, and actor. As a member of the British/Irish boy band One Direction, singer Harry Styles topped the charts, toured the world, and sold millions of albums before going solo in 2016. Styles was raised in Holmes Chapel, Cheshire, and he made his first foray into music with a high-school band named White Eskimo. <a href=\"https://www.last.fm/music/Harry+Styles\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global"
+    },
+    {
+      "artist": "Harry Styles",
+      "track": "Aperture",
+      "rank": 9,
+      "streams": 5008074,
+      "listeners": 497011,
+      "playcount": 3808330,
+      "artist_listeners": 3204096,
+      "artist_playcount": 408317231,
+      "tags": [
+        "House",
+        "electronic",
+        "alternative",
+        "techno",
+        "Progressive House"
+      ],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "United States",
+        "United Kingdom",
+        "Canada",
+        "Australia"
+      ],
+      "track_url": "https://www.last.fm/music/Harry+Styles/_/Aperture",
+      "artist_url": "https://www.last.fm/music/Harry+Styles",
+      "summary": "Harry Edward Styles (born 1 February 1994 in Redditich, Worcestershire, England) is a three-time GRAMMY award-winning, British singer, songwriter, and actor. As a member of the British/Irish boy band One Direction, singer Harry Styles topped the charts, toured the world, and sold millions of albums before going solo in 2016. Styles was raised in Holmes Chapel, Cheshire, and he made his first foray into music with a high-school band named White Eskimo. <a href=\"https://www.last.fm/music/Harry+Styles\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global"
+    },
+    {
+      "artist": "Harry Styles",
+      "track": "The Waiting Game",
+      "rank": 10,
+      "streams": 4984348,
+      "listeners": 142221,
+      "playcount": 293376,
+      "artist_listeners": 3204096,
+      "artist_playcount": 408317231,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [],
+      "track_url": "https://www.last.fm/music/Harry+Styles/_/The+Waiting+Game",
+      "artist_url": "https://www.last.fm/music/Harry+Styles",
+      "summary": "Harry Edward Styles (born 1 February 1994 in Redditich, Worcestershire, England) is a three-time GRAMMY award-winning, British singer, songwriter, and actor. As a member of the British/Irish boy band One Direction, singer Harry Styles topped the charts, toured the world, and sold millions of albums before going solo in 2016. Styles was raised in Holmes Chapel, Cheshire, and he made his first foray into music with a high-school band named White Eskimo. <a href=\"https://www.last.fm/music/Harry+Styles\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global"
+    }
+  ],
+  "ranked_tracks": [
+    {
+      "artist": "Harry Styles",
+      "track": "American Girls",
+      "rank": 1,
+      "streams": 8305609,
+      "listeners": 178780,
+      "playcount": 373400,
+      "artist_listeners": 3204096,
+      "artist_playcount": 408317231,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "United States",
+        "United Kingdom",
+        "Canada",
+        "Australia"
+      ],
+      "track_url": "https://www.last.fm/music/Harry+Styles/_/American+Girls",
+      "artist_url": "https://www.last.fm/music/Harry+Styles",
+      "summary": "Harry Edward Styles (born 1 February 1994 in Redditich, Worcestershire, England) is a three-time GRAMMY award-winning, British singer, songwriter, and actor. As a member of the British/Irish boy band One Direction, singer Harry Styles topped the charts, toured the world, and sold millions of albums before going solo in 2016. Styles was raised in Holmes Chapel, Cheshire, and he made his first foray into music with a high-school band named White Eskimo. <a href=\"https://www.last.fm/music/Harry+Styles\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global",
+      "trend_score": 69.14
+    },
+    {
+      "artist": "Harry Styles",
+      "track": "Ready, Steady, Go!",
+      "rank": 2,
+      "streams": 6122110,
+      "listeners": 163061,
+      "playcount": 350668,
+      "artist_listeners": 3204096,
+      "artist_playcount": 408317231,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "United States",
+        "United Kingdom",
+        "Australia"
+      ],
+      "track_url": "https://www.last.fm/music/Harry+Styles/_/Ready,+Steady,+Go%21",
+      "artist_url": "https://www.last.fm/music/Harry+Styles",
+      "summary": "Harry Edward Styles (born 1 February 1994 in Redditich, Worcestershire, England) is a three-time GRAMMY award-winning, British singer, songwriter, and actor. As a member of the British/Irish boy band One Direction, singer Harry Styles topped the charts, toured the world, and sold millions of albums before going solo in 2016. Styles was raised in Holmes Chapel, Cheshire, and he made his first foray into music with a high-school band named White Eskimo. <a href=\"https://www.last.fm/music/Harry+Styles\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global",
+      "trend_score": 46.94
+    },
+    {
+      "artist": "Bad Bunny",
+      "track": "DtMF",
+      "rank": 7,
+      "streams": 5345427,
+      "listeners": 1206778,
+      "playcount": 14880000,
+      "artist_listeners": 2487357,
+      "artist_playcount": 385409910,
+      "tags": [
+        "latin",
+        "melodic",
+        "vocal",
+        "Reggaeton",
+        "Moderate"
+      ],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "United States",
+        "Canada"
+      ],
+      "track_url": "https://www.last.fm/music/Bad+Bunny/_/DtMF",
+      "artist_url": "https://www.last.fm/music/Bad+Bunny",
+      "summary": "Benito Antonio Martínez Ocasio (born March 10, 1994), known professionally as Bad Bunny, is a Puerto Rican rapper and singer. He is recognized as a leading figure in Latin trap and has played a significant role in popularizing Spanish-language rap in global mainstream music. Bad Bunny became the first non-English-language artist to be Spotify's most-streamed artist of the year, achieving this distinction in three consecutive years from 2020 to 2022. His 2022 album \"Un Verano Sin Ti\" holds the record as the most-streamed album on Spotify. <a href=\"https://www.last.fm/music/Bad+Bunny\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global",
+      "trend_score": 46.05
+    },
+    {
+      "artist": "Harry Styles",
+      "track": "Are You Listening Yet?",
+      "rank": 4,
+      "streams": 5668994,
+      "listeners": 153625,
+      "playcount": 321989,
+      "artist_listeners": 3204096,
+      "artist_playcount": 408317231,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "United Kingdom",
+        "Australia"
+      ],
+      "track_url": "https://www.last.fm/music/Harry+Styles/_/Are+you+listening+yet%3F",
+      "artist_url": "https://www.last.fm/music/Harry+Styles",
+      "summary": "Harry Edward Styles (born 1 February 1994 in Redditich, Worcestershire, England) is a three-time GRAMMY award-winning, British singer, songwriter, and actor. As a member of the British/Irish boy band One Direction, singer Harry Styles topped the charts, toured the world, and sold millions of albums before going solo in 2016. Styles was raised in Holmes Chapel, Cheshire, and he made his first foray into music with a high-school band named White Eskimo. <a href=\"https://www.last.fm/music/Harry+Styles\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global",
+      "trend_score": 33.95
+    },
+    {
+      "artist": "PinkPantheress",
+      "track": "Stateside + Zara Larsson (w/ Zara Larsson)",
+      "rank": 3,
+      "streams": 5731272,
+      "listeners": 0,
+      "playcount": 0,
+      "artist_listeners": 2940022,
+      "artist_playcount": 304579252,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [],
+      "track_url": "",
+      "artist_url": "https://www.last.fm/music/PinkPantheress",
+      "summary": "PinkPantheress (Victoria Beverley Walker, born 19 April 2001) is a British singer-songwriter and record producer. Her music is noted for its use of samples and personal, diaristic lyrics.\n\nBorn in Bath, Somerset, and raised in Kent, she began her musical career in 2021 while attending university in London, producing songs using GarageBand and sharing them on SoundCloud and TikTok. Tracks such as \"Break It Off\" gained popularity on TikTok, leading <a href=\"https://www.last.fm/music/PinkPantheress\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global",
+      "trend_score": 32.84
+    },
+    {
+      "artist": "Bruno Mars",
+      "track": "Risk It All",
+      "rank": 5,
+      "streams": 5563594,
+      "listeners": 192384,
+      "playcount": 779308,
+      "artist_listeners": 5156695,
+      "artist_playcount": 288830095,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "United States",
+        "Canada"
+      ],
+      "track_url": "https://www.last.fm/music/Bruno+Mars/_/Risk+It+All",
+      "artist_url": "https://www.last.fm/music/Bruno+Mars",
+      "summary": "Peter Gene Hernandez (born October 8, 1985 in Honolulu, Hawaii, USA), known professionally as Bruno Mars, is an American singer, songwriter, record producer, musician, and dancer. He is known for his stage performances, retro showmanship, and for performing in a wide range of musical styles, including pop, R&B, funk, soul, reggae, disco, and rock. Mars is accompanied by his band, the Hooligans, who play a variety of instruments, such as electric guitar, bass, piano, keyboards, drums, and horns, and also serve as backup singers and dancers. <a href=\"https://www.last.fm/music/Bruno+Mars\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global",
+      "trend_score": 30.05
+    },
+    {
+      "artist": "Harry Styles",
+      "track": "Taste Back",
+      "rank": 6,
+      "streams": 5557886,
+      "listeners": 148117,
+      "playcount": 322777,
+      "artist_listeners": 3204096,
+      "artist_playcount": 408317231,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "United Kingdom"
+      ],
+      "track_url": "https://www.last.fm/music/Harry+Styles/_/Taste+Back",
+      "artist_url": "https://www.last.fm/music/Harry+Styles",
+      "summary": "Harry Edward Styles (born 1 February 1994 in Redditich, Worcestershire, England) is a three-time GRAMMY award-winning, British singer, songwriter, and actor. As a member of the British/Irish boy band One Direction, singer Harry Styles topped the charts, toured the world, and sold millions of albums before going solo in 2016. Styles was raised in Holmes Chapel, Cheshire, and he made his first foray into music with a high-school band named White Eskimo. <a href=\"https://www.last.fm/music/Harry+Styles\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global",
+      "trend_score": 23.6
+    },
+    {
+      "artist": "Harry Styles",
+      "track": "Aperture",
+      "rank": 9,
+      "streams": 5008074,
+      "listeners": 497011,
+      "playcount": 3808330,
+      "artist_listeners": 3204096,
+      "artist_playcount": 408317231,
+      "tags": [
+        "House",
+        "electronic",
+        "alternative",
+        "techno",
+        "Progressive House"
+      ],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "United States",
+        "United Kingdom",
+        "Canada",
+        "Australia"
+      ],
+      "track_url": "https://www.last.fm/music/Harry+Styles/_/Aperture",
+      "artist_url": "https://www.last.fm/music/Harry+Styles",
+      "summary": "Harry Edward Styles (born 1 February 1994 in Redditich, Worcestershire, England) is a three-time GRAMMY award-winning, British singer, songwriter, and actor. As a member of the British/Irish boy band One Direction, singer Harry Styles topped the charts, toured the world, and sold millions of albums before going solo in 2016. Styles was raised in Holmes Chapel, Cheshire, and he made his first foray into music with a high-school band named White Eskimo. <a href=\"https://www.last.fm/music/Harry+Styles\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global",
+      "trend_score": 22.8
+    },
+    {
+      "artist": "Harry Styles",
+      "track": "Coming Up Roses",
+      "rank": 8,
+      "streams": 5209204,
+      "listeners": 132298,
+      "playcount": 295167,
+      "artist_listeners": 3204096,
+      "artist_playcount": 408317231,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [],
+      "track_url": "https://www.last.fm/music/Harry+Styles/_/Coming+Up+Roses",
+      "artist_url": "https://www.last.fm/music/Harry+Styles",
+      "summary": "Harry Edward Styles (born 1 February 1994 in Redditich, Worcestershire, England) is a three-time GRAMMY award-winning, British singer, songwriter, and actor. As a member of the British/Irish boy band One Direction, singer Harry Styles topped the charts, toured the world, and sold millions of albums before going solo in 2016. Styles was raised in Holmes Chapel, Cheshire, and he made his first foray into music with a high-school band named White Eskimo. <a href=\"https://www.last.fm/music/Harry+Styles\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global",
+      "trend_score": 11.31
+    },
+    {
+      "artist": "Harry Styles",
+      "track": "The Waiting Game",
+      "rank": 10,
+      "streams": 4984348,
+      "listeners": 142221,
+      "playcount": 293376,
+      "artist_listeners": 3204096,
+      "artist_playcount": 408317231,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [],
+      "track_url": "https://www.last.fm/music/Harry+Styles/_/The+Waiting+Game",
+      "artist_url": "https://www.last.fm/music/Harry+Styles",
+      "summary": "Harry Edward Styles (born 1 February 1994 in Redditich, Worcestershire, England) is a three-time GRAMMY award-winning, British singer, songwriter, and actor. As a member of the British/Irish boy band One Direction, singer Harry Styles topped the charts, toured the world, and sold millions of albums before going solo in 2016. Styles was raised in Holmes Chapel, Cheshire, and he made his first foray into music with a high-school band named White Eskimo. <a href=\"https://www.last.fm/music/Harry+Styles\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global",
+      "trend_score": 1.96
+    }
+  ],
+  "insights": [
+    "Top opportunity: 'American Girls' by Harry Styles leads the ranking with a trend score of 69.14, current chart rank #1, and approximately 8,305,609 streams.",
+    "Breakout signal: 'American Girls' by Harry Styles has the strongest immediate commercial signal with chart rank #1 and 8,305,609 streams.",
+    "Rising track: 'Ready, Steady, Go!' by Harry Styles is showing strong momentum but is not yet the top breakout candidate.",
+    "Cross-market strength: 'American Girls' appears in multiple monitored markets (United States, United Kingdom, Canada, Australia).",
+    "Genre/tag signal: 'DtMF' shows strong tag coverage (latin, melodic, vocal, Reggaeton), which can help positioning and audience targeting.",
+    "Data quality note: 1 track(s) had partial listener or playcount data, so enrichment fields may understate actual momentum.",
+    "Analysis was benchmarked across 6 monitored market(s): United States, United Kingdom, Canada, Australia, Brazil, India."
+  ],
+  "watchlist": [
+    {
+      "artist": "Harry Styles",
+      "track": "American Girls",
+      "rank": 1,
+      "streams": 8305609,
+      "trend_score": 69.14,
+      "listeners": 178780,
+      "playcount": 373400,
+      "country_chart_seen": [
+        "United States",
+        "United Kingdom",
+        "Canada",
+        "Australia"
+      ],
+      "tags": [],
+      "recommendation": "🔥 Breakout track — push immediately"
+    },
+    {
+      "artist": "Harry Styles",
+      "track": "Ready, Steady, Go!",
+      "rank": 2,
+      "streams": 6122110,
+      "trend_score": 46.94,
+      "listeners": 163061,
+      "playcount": 350668,
+      "country_chart_seen": [
+        "United States",
+        "United Kingdom",
+        "Australia"
+      ],
+      "tags": [],
+      "recommendation": "📈 Rising track — accelerate promotion this week"
+    },
+    {
+      "artist": "Bad Bunny",
+      "track": "DtMF",
+      "rank": 7,
+      "streams": 5345427,
+      "trend_score": 46.05,
+      "listeners": 1206778,
+      "playcount": 14880000,
+      "country_chart_seen": [
+        "United States",
+        "Canada"
+      ],
+      "tags": [
+        "latin",
+        "melodic",
+        "vocal",
+        "Reggaeton",
+        "Moderate"
+      ],
+      "recommendation": "📈 Rising track — accelerate promotion this week"
+    },
+    {
+      "artist": "Harry Styles",
+      "track": "Are You Listening Yet?",
+      "rank": 4,
+      "streams": 5668994,
+      "trend_score": 33.95,
+      "listeners": 153625,
+      "playcount": 321989,
+      "country_chart_seen": [
+        "United Kingdom",
+        "Australia"
+      ],
+      "tags": [],
+      "recommendation": "🎯 Test promotion in high-signal markets"
+    },
+    {
+      "artist": "PinkPantheress",
+      "track": "Stateside + Zara Larsson (w/ Zara Larsson)",
+      "rank": 3,
+      "streams": 5731272,
+      "trend_score": 32.84,
+      "listeners": 0,
+      "playcount": 0,
+      "country_chart_seen": [],
+      "tags": [],
+      "recommendation": "👀 Add to watchlist and validate missing enrichment data"
+    },
+    {
+      "artist": "Bruno Mars",
+      "track": "Risk It All",
+      "rank": 5,
+      "streams": 5563594,
+      "trend_score": 30.05,
+      "listeners": 192384,
+      "playcount": 779308,
+      "country_chart_seen": [
+        "United States",
+        "Canada"
+      ],
+      "tags": [],
+      "recommendation": "🎯 Test promotion in high-signal markets"
+    },
+    {
+      "artist": "Harry Styles",
+      "track": "Taste Back",
+      "rank": 6,
+      "streams": 5557886,
+      "trend_score": 23.6,
+      "listeners": 148117,
+      "playcount": 322777,
+      "country_chart_seen": [
+        "United Kingdom"
+      ],
+      "tags": [],
+      "recommendation": "👀 Add to active watchlist and monitor closely"
+    },
+    {
+      "artist": "Harry Styles",
+      "track": "Aperture",
+      "rank": 9,
+      "streams": 5008074,
+      "trend_score": 22.8,
+      "listeners": 497011,
+      "playcount": 3808330,
+      "country_chart_seen": [
+        "United States",
+        "United Kingdom",
+        "Canada",
+        "Australia"
+      ],
+      "tags": [
+        "House",
+        "electronic",
+        "alternative",
+        "techno",
+        "Progressive House"
+      ],
+      "recommendation": "👀 Add to active watchlist and monitor closely"
+    },
+    {
+      "artist": "Harry Styles",
+      "track": "Coming Up Roses",
+      "rank": 8,
+      "streams": 5209204,
+      "trend_score": 11.31,
+      "listeners": 132298,
+      "playcount": 295167,
+      "country_chart_seen": [],
+      "tags": [],
+      "recommendation": "👀 Add to active watchlist and monitor closely"
+    },
+    {
+      "artist": "Harry Styles",
+      "track": "The Waiting Game",
+      "rank": 10,
+      "streams": 4984348,
+      "trend_score": 1.96,
+      "listeners": 142221,
+      "playcount": 293376,
+      "country_chart_seen": [],
+      "tags": [],
+      "recommendation": "👀 Add to active watchlist and monitor closely"
+    }
+  ],
+  "final_report": "Title\nMusic Trend Scout Report\n\nExecutive Summary\n- Top opportunity: 'American Girls' by Harry Styles leads the ranking with a trend score of 69.14, current chart rank #1, and approximately 8,305,609 streams.\n- Breakout signal: 'American Girls' by Harry Styles has the strongest immediate commercial signal with chart rank #1 and 8,305,609 streams.\n- Rising track: 'Ready, Steady, Go!' by Harry Styles is showing strong momentum but is not yet the top breakout candidate.\n- Cross-market strength: 'American Girls' appears in multiple monitored markets (United States, United Kingdom, Canada, Australia).\n- Genre/tag signal: 'DtMF' shows strong tag coverage (latin, melodic, vocal, Reggaeton), which can help positioning and audience targeting.\n- Data quality note: 1 track(s) had partial listener or playcount data, so enrichment fields may understate actual momentum.\n- Analysis was benchmarked across 6 monitored market(s): United States, United Kingdom, Canada, Australia, Brazil, India.\n\nTop Opportunities\n- American Girls by Harry Styles | score=69.14 | action=🔥 Breakout track — push immediately\n- Ready, Steady, Go! by Harry Styles | score=46.94 | action=📈 Rising track — accelerate promotion this week\n- DtMF by Bad Bunny | score=46.05 | action=📈 Rising track — accelerate promotion this week\n- Are You Listening Yet? by Harry Styles | score=33.95 | action=🎯 Test promotion in high-signal markets\n- Stateside + Zara Larsson (w/ Zara Larsson) by PinkPantheress | score=32.84 | action=👀 Add to watchlist and validate missing enrichment data\n- Risk It All by Bruno Mars | score=30.05 | action=🎯 Test promotion in high-signal markets\n- Taste Back by Harry Styles | score=23.6 | action=👀 Add to active watchlist and monitor closely\n- Aperture by Harry Styles | score=22.8 | action=👀 Add to active watchlist and monitor closely\n- Coming Up Roses by Harry Styles | score=11.31 | action=👀 Add to active watchlist and monitor closely\n- The Waiting Game by Harry Styles | score=1.96 | action=👀 Add to active watchlist and monitor closely\n\nRecommended Actions\n- Review the top-ranked tracks and validate with platform-specific data.\n- Track these songs again in the next cycle to confirm momentum.\n\nRisks / Limitations\n- Fallback report generated because the LLM reporter step failed.\n- Failed to fetch track info for 'Stateside + Zara Larsson (w/ Zara Larsson)' by 'PinkPantheress': Last.fm API error 6: Track not found\n- Reporter agent failed: Connection error.",
+  "status": "reporter_fallback_completed",
+  "errors": [
+    "Failed to fetch track info for 'Stateside + Zara Larsson (w/ Zara Larsson)' by 'PinkPantheress': Last.fm API error 6: Track not found",
+    "Reporter agent failed: Connection error."
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "user_query": "Which tracks should a music label watch this week?",
+  "countries": [
+    "United States",
+    "United Kingdom",
+    "Canada",
+    "Australia",
+    "Brazil",
+    "India"
+  ],
+  "top_n": 10,
+  "normalized_tracks": [],
+  "ranked_tracks": [],
+  "insights": [
+    "No normalized tracks available for analysis."
+  ],
+  "watchlist": [],
+  "final_report": "Title\nMusic Trend Scout Report\n\nExecutive Summary\n- No normalized tracks available for analysis.\n\nTop Opportunities\n- No watchlist items were available.\n\nRecommended Actions\n- Review the top-ranked tracks and validate with platform-specific data.\n- Track these songs again in the next cycle to confirm momentum.\n\nRisks / Limitations\n- Fallback report generated because the LLM reporter step failed.\n- Failed to fetch chart tracks from Kworb.\n- Analyst received empty normalized_tracks.\n- Reporter agent failed: Connection error.",
+  "status": "reporter_fallback_completed",
+  "errors": [
+    "Failed to fetch chart tracks from Kworb.",
+    "Analyst received empty normalized_tracks.",
+    "Reporter agent failed: Connection error."
+  ]
+}

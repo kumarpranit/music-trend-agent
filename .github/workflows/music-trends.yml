@@ -32,6 +32,7 @@ jobs:
           SMTP_EMAIL: ${{ secrets.SMTP_EMAIL }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           SEND_EMAIL: "false"
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
         run: |
           python -m src.main
 

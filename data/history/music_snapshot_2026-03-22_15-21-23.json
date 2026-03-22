@@ -1,0 +1,3535 @@
+{
+  "user_query": "Which tracks should a music label watch this week?",
+  "countries": [
+    "United States",
+    "United Kingdom",
+    "Canada",
+    "Australia",
+    "Brazil",
+    "India"
+  ],
+  "top_n": 10,
+  "raw_chart_tracks": [
+    {
+      "rank": 1,
+      "artist": "BTS",
+      "track": "SWIM",
+      "streams": 14644352,
+      "source": "kworb_spotify_global",
+      "url": "https://kworb.net/spotify/country/global_daily.html"
+    },
+    {
+      "rank": 2,
+      "artist": "BTS",
+      "track": "Body to Body",
+      "streams": 11185035,
+      "source": "kworb_spotify_global",
+      "url": "https://kworb.net/spotify/country/global_daily.html"
+    },
+    {
+      "rank": 3,
+      "artist": "BTS",
+      "track": "Hooligan",
+      "streams": 8735463,
+      "source": "kworb_spotify_global",
+      "url": "https://kworb.net/spotify/country/global_daily.html"
+    },
+    {
+      "rank": 4,
+      "artist": "BTS",
+      "track": "FYA",
+      "streams": 8070671,
+      "source": "kworb_spotify_global",
+      "url": "https://kworb.net/spotify/country/global_daily.html"
+    },
+    {
+      "rank": 5,
+      "artist": "BTS",
+      "track": "Aliens",
+      "streams": 7755173,
+      "source": "kworb_spotify_global",
+      "url": "https://kworb.net/spotify/country/global_daily.html"
+    },
+    {
+      "rank": 6,
+      "artist": "BTS",
+      "track": "2.0",
+      "streams": 7383093,
+      "source": "kworb_spotify_global",
+      "url": "https://kworb.net/spotify/country/global_daily.html"
+    },
+    {
+      "rank": 7,
+      "artist": "BTS",
+      "track": "Merry Go Round",
+      "streams": 7230907,
+      "source": "kworb_spotify_global",
+      "url": "https://kworb.net/spotify/country/global_daily.html"
+    },
+    {
+      "rank": 8,
+      "artist": "BTS",
+      "track": "NORMAL",
+      "streams": 7159676,
+      "source": "kworb_spotify_global",
+      "url": "https://kworb.net/spotify/country/global_daily.html"
+    },
+    {
+      "rank": 9,
+      "artist": "BTS",
+      "track": "Like Animals",
+      "streams": 6827196,
+      "source": "kworb_spotify_global",
+      "url": "https://kworb.net/spotify/country/global_daily.html"
+    },
+    {
+      "rank": 10,
+      "artist": "BTS",
+      "track": "they don’t know ’bout us",
+      "streams": 6729450,
+      "source": "kworb_spotify_global",
+      "url": "https://kworb.net/spotify/country/global_daily.html"
+    }
+  ],
+  "raw_geo_tracks": {
+    "United States": [
+      {
+        "name": "Stateside + Zara Larsson",
+        "duration": "176",
+        "listeners": "129480",
+        "mbid": "ffbf7862-2476-4164-ac32-f5904ccefe0f",
+        "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "PinkPantheress",
+          "mbid": "7441014f-f8f5-494f-81db-ff166fbc078d",
+          "url": "https://www.last.fm/music/PinkPantheress"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "0"
+        }
+      },
+      {
+        "name": "American Girls",
+        "duration": "213",
+        "listeners": "61434",
+        "mbid": "2c85fe70-3c0e-4b43-8d97-f5b5c4757f3a",
+        "url": "https://www.last.fm/music/Harry+Styles/_/American+Girls",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Harry Styles",
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "url": "https://www.last.fm/music/Harry+Styles"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "1"
+        }
+      },
+      {
+        "name": "Babydoll",
+        "duration": "97",
+        "listeners": "60910",
+        "mbid": "c6fa2cd4-a100-4db8-8206-3cbcdd3aabe0",
+        "url": "https://www.last.fm/music/Dominic+Fike/_/Babydoll",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Dominic Fike",
+          "mbid": "e337c918-098f-418e-97a2-81dc224b1bf9",
+          "url": "https://www.last.fm/music/Dominic+Fike"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "2"
+        }
+      },
+      {
+        "name": "Earrings",
+        "duration": "0",
+        "listeners": "57584",
+        "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Malcolm Todd",
+          "mbid": "6c2a79b8-2b5c-4c2d-b495-6a446811bf9d",
+          "url": "https://www.last.fm/music/Malcolm+Todd"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "3"
+        }
+      },
+      {
+        "name": "All I Did Was Dream Of You (feat. The Marías)",
+        "duration": "0",
+        "listeners": "56832",
+        "url": "https://www.last.fm/music/beabadoobee/_/All+I+Did+Was+Dream+Of+You+(feat.+The+Mar%C3%ADas)",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "beabadoobee",
+          "mbid": "88d17133-abbc-42db-9526-4e2c1db60336",
+          "url": "https://www.last.fm/music/beabadoobee"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "4"
+        }
+      },
+      {
+        "name": "In My Room",
+        "duration": "163",
+        "listeners": "56776",
+        "mbid": "7084e345-2184-4f8f-88dc-90fe0eae4398",
+        "url": "https://www.last.fm/music/Julia+Wolf/_/In+My+Room",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Julia Wolf",
+          "mbid": "b89456e0-cf8d-4a29-baed-4b2d1fe3ef6a",
+          "url": "https://www.last.fm/music/Julia+Wolf"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "5"
+        }
+      },
+      {
+        "name": "Mr. Brightside",
+        "duration": "222",
+        "listeners": "53078",
+        "mbid": "0157fd48-a126-4af1-ad1f-4fbb37911b90",
+        "url": "https://www.last.fm/music/The+Killers/_/Mr.+Brightside",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "The Killers",
+          "mbid": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+          "url": "https://www.last.fm/music/The+Killers"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "6"
+        }
+      },
+      {
+        "name": "E85",
+        "duration": "0",
+        "listeners": "52558",
+        "mbid": "5c66f91b-1b0d-4bd7-b1e1-8d2477f99b92",
+        "url": "https://www.last.fm/music/Don+Toliver/_/E85",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Don Toliver",
+          "mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+          "url": "https://www.last.fm/music/Don+Toliver"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "7"
+        }
+      },
+      {
+        "name": "Fame Is a Gun",
+        "duration": "183",
+        "listeners": "52475",
+        "mbid": "37907edc-06c1-4d08-b2ef-7e5221986f91",
+        "url": "https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Addison Rae",
+          "mbid": "610b71d9-fa78-47d6-9073-083922e73840",
+          "url": "https://www.last.fm/music/Addison+Rae"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "8"
+        }
+      },
+      {
+        "name": "DtMF",
+        "duration": "237",
+        "listeners": "51998",
+        "mbid": "2944ab9d-2e49-4143-83fb-4e8499469654",
+        "url": "https://www.last.fm/music/Bad+Bunny/_/DtMF",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Bad Bunny",
+          "mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+          "url": "https://www.last.fm/music/Bad+Bunny"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "9"
+        }
+      }
+    ],
+    "United Kingdom": [
+      {
+        "name": "Stateside + Zara Larsson",
+        "duration": "176",
+        "listeners": "32864",
+        "mbid": "ffbf7862-2476-4164-ac32-f5904ccefe0f",
+        "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "PinkPantheress",
+          "mbid": "7441014f-f8f5-494f-81db-ff166fbc078d",
+          "url": "https://www.last.fm/music/PinkPantheress"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "0"
+        }
+      },
+      {
+        "name": "American Girls",
+        "duration": "213",
+        "listeners": "19708",
+        "mbid": "2c85fe70-3c0e-4b43-8d97-f5b5c4757f3a",
+        "url": "https://www.last.fm/music/Harry+Styles/_/American+Girls",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Harry Styles",
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "url": "https://www.last.fm/music/Harry+Styles"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "1"
+        }
+      },
+      {
+        "name": "Rein Me In (with Olivia Dean)",
+        "duration": "0",
+        "listeners": "15353",
+        "url": "https://www.last.fm/music/Sam+Fender/_/Rein+Me+In+(with+Olivia+Dean)",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Sam Fender",
+          "mbid": "3478a5d1-bd96-4584-aa54-4d6e0a329658",
+          "url": "https://www.last.fm/music/Sam+Fender"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "2"
+        }
+      },
+      {
+        "name": "Babydoll",
+        "duration": "97",
+        "listeners": "15337",
+        "mbid": "c6fa2cd4-a100-4db8-8206-3cbcdd3aabe0",
+        "url": "https://www.last.fm/music/Dominic+Fike/_/Babydoll",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Dominic Fike",
+          "mbid": "e337c918-098f-418e-97a2-81dc224b1bf9",
+          "url": "https://www.last.fm/music/Dominic+Fike"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "3"
+        }
+      },
+      {
+        "name": "Taste Back",
+        "duration": "221",
+        "listeners": "14813",
+        "mbid": "49562fdd-c325-415a-a2be-7d71f121b25d",
+        "url": "https://www.last.fm/music/Harry+Styles/_/Taste+Back",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Harry Styles",
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "url": "https://www.last.fm/music/Harry+Styles"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "4"
+        }
+      },
+      {
+        "name": "Man I Need",
+        "duration": "184",
+        "listeners": "14761",
+        "mbid": "3161a467-1441-4ef8-8ca0-424db271cd79",
+        "url": "https://www.last.fm/music/Olivia+Dean/_/Man+I+Need",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Olivia Dean",
+          "mbid": "15e0d608-0869-429b-898d-3d8db3ecedd5",
+          "url": "https://www.last.fm/music/Olivia+Dean"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "5"
+        }
+      },
+      {
+        "name": "Fame Is a Gun",
+        "duration": "183",
+        "listeners": "14404",
+        "mbid": "37907edc-06c1-4d08-b2ef-7e5221986f91",
+        "url": "https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Addison Rae",
+          "mbid": "610b71d9-fa78-47d6-9073-083922e73840",
+          "url": "https://www.last.fm/music/Addison+Rae"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "6"
+        }
+      },
+      {
+        "name": "Aperture",
+        "duration": "311",
+        "listeners": "14176",
+        "mbid": "2b1c66e1-4023-4294-813a-9d7d921bffbc",
+        "url": "https://www.last.fm/music/Harry+Styles/_/Aperture",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Harry Styles",
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "url": "https://www.last.fm/music/Harry+Styles"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "7"
+        }
+      },
+      {
+        "name": "Ready, Steady, Go!",
+        "duration": "160",
+        "listeners": "13609",
+        "mbid": "4f255861-925f-4629-ab41-22f4b35d8585",
+        "url": "https://www.last.fm/music/Harry+Styles/_/Ready,+Steady,+Go%21",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Harry Styles",
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "url": "https://www.last.fm/music/Harry+Styles"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "8"
+        }
+      },
+      {
+        "name": "Midnight Sun",
+        "duration": "189",
+        "listeners": "13116",
+        "mbid": "21e8a4db-0892-428d-a143-0e2215dddbfa",
+        "url": "https://www.last.fm/music/Zara+Larsson/_/Midnight+Sun",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Zara Larsson",
+          "mbid": "134e6410-6954-45d1-bd4a-0f2d2ad5471d",
+          "url": "https://www.last.fm/music/Zara+Larsson"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "9"
+        }
+      }
+    ],
+    "Canada": [
+      {
+        "name": "Stateside + Zara Larsson",
+        "duration": "176",
+        "listeners": "15913",
+        "mbid": "ffbf7862-2476-4164-ac32-f5904ccefe0f",
+        "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "PinkPantheress",
+          "mbid": "7441014f-f8f5-494f-81db-ff166fbc078d",
+          "url": "https://www.last.fm/music/PinkPantheress"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "0"
+        }
+      },
+      {
+        "name": "Babydoll",
+        "duration": "97",
+        "listeners": "7935",
+        "mbid": "c6fa2cd4-a100-4db8-8206-3cbcdd3aabe0",
+        "url": "https://www.last.fm/music/Dominic+Fike/_/Babydoll",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Dominic Fike",
+          "mbid": "e337c918-098f-418e-97a2-81dc224b1bf9",
+          "url": "https://www.last.fm/music/Dominic+Fike"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "1"
+        }
+      },
+      {
+        "name": "American Girls",
+        "duration": "213",
+        "listeners": "7059",
+        "mbid": "2c85fe70-3c0e-4b43-8d97-f5b5c4757f3a",
+        "url": "https://www.last.fm/music/Harry+Styles/_/American+Girls",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Harry Styles",
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "url": "https://www.last.fm/music/Harry+Styles"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "2"
+        }
+      },
+      {
+        "name": "All I Did Was Dream Of You (feat. The Marías)",
+        "duration": "0",
+        "listeners": "6919",
+        "url": "https://www.last.fm/music/beabadoobee/_/All+I+Did+Was+Dream+Of+You+(feat.+The+Mar%C3%ADas)",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "beabadoobee",
+          "mbid": "88d17133-abbc-42db-9526-4e2c1db60336",
+          "url": "https://www.last.fm/music/beabadoobee"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "3"
+        }
+      },
+      {
+        "name": "Dracula",
+        "duration": "205",
+        "listeners": "6622",
+        "mbid": "5b1c893a-16da-4e3d-b9b7-6cc57afc360c",
+        "url": "https://www.last.fm/music/Tame+Impala/_/Dracula",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Tame Impala",
+          "mbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
+          "url": "https://www.last.fm/music/Tame+Impala"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "4"
+        }
+      },
+      {
+        "name": "E85",
+        "duration": "0",
+        "listeners": "6553",
+        "mbid": "5c66f91b-1b0d-4bd7-b1e1-8d2477f99b92",
+        "url": "https://www.last.fm/music/Don+Toliver/_/E85",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Don Toliver",
+          "mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+          "url": "https://www.last.fm/music/Don+Toliver"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "5"
+        }
+      },
+      {
+        "name": "Earrings",
+        "duration": "0",
+        "listeners": "6345",
+        "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Malcolm Todd",
+          "mbid": "6c2a79b8-2b5c-4c2d-b495-6a446811bf9d",
+          "url": "https://www.last.fm/music/Malcolm+Todd"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "6"
+        }
+      },
+      {
+        "name": "Fame Is a Gun",
+        "duration": "183",
+        "listeners": "6309",
+        "mbid": "37907edc-06c1-4d08-b2ef-7e5221986f91",
+        "url": "https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Addison Rae",
+          "mbid": "610b71d9-fa78-47d6-9073-083922e73840",
+          "url": "https://www.last.fm/music/Addison+Rae"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "7"
+        }
+      },
+      {
+        "name": "Mr. Brightside",
+        "duration": "222",
+        "listeners": "5905",
+        "mbid": "0157fd48-a126-4af1-ad1f-4fbb37911b90",
+        "url": "https://www.last.fm/music/The+Killers/_/Mr.+Brightside",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "The Killers",
+          "mbid": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+          "url": "https://www.last.fm/music/The+Killers"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "8"
+        }
+      },
+      {
+        "name": "The Less I Know the Better",
+        "duration": "234",
+        "listeners": "5807",
+        "mbid": "0409caa8-c467-4455-8033-05ff8d9345f1",
+        "url": "https://www.last.fm/music/Tame+Impala/_/The+Less+I+Know+the+Better",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Tame Impala",
+          "mbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
+          "url": "https://www.last.fm/music/Tame+Impala"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "9"
+        }
+      }
+    ],
+    "Australia": [
+      {
+        "name": "Stateside + Zara Larsson",
+        "duration": "176",
+        "listeners": "13986",
+        "mbid": "ffbf7862-2476-4164-ac32-f5904ccefe0f",
+        "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "PinkPantheress",
+          "mbid": "7441014f-f8f5-494f-81db-ff166fbc078d",
+          "url": "https://www.last.fm/music/PinkPantheress"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "0"
+        }
+      },
+      {
+        "name": "Babydoll",
+        "duration": "97",
+        "listeners": "7019",
+        "mbid": "c6fa2cd4-a100-4db8-8206-3cbcdd3aabe0",
+        "url": "https://www.last.fm/music/Dominic+Fike/_/Babydoll",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Dominic Fike",
+          "mbid": "e337c918-098f-418e-97a2-81dc224b1bf9",
+          "url": "https://www.last.fm/music/Dominic+Fike"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "1"
+        }
+      },
+      {
+        "name": "American Girls",
+        "duration": "213",
+        "listeners": "6994",
+        "mbid": "2c85fe70-3c0e-4b43-8d97-f5b5c4757f3a",
+        "url": "https://www.last.fm/music/Harry+Styles/_/American+Girls",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Harry Styles",
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "url": "https://www.last.fm/music/Harry+Styles"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "2"
+        }
+      },
+      {
+        "name": "Dracula",
+        "duration": "205",
+        "listeners": "6434",
+        "mbid": "5b1c893a-16da-4e3d-b9b7-6cc57afc360c",
+        "url": "https://www.last.fm/music/Tame+Impala/_/Dracula",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Tame Impala",
+          "mbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
+          "url": "https://www.last.fm/music/Tame+Impala"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "3"
+        }
+      },
+      {
+        "name": "Fame Is a Gun",
+        "duration": "183",
+        "listeners": "6067",
+        "mbid": "37907edc-06c1-4d08-b2ef-7e5221986f91",
+        "url": "https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Addison Rae",
+          "mbid": "610b71d9-fa78-47d6-9073-083922e73840",
+          "url": "https://www.last.fm/music/Addison+Rae"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "4"
+        }
+      },
+      {
+        "name": "Man I Need",
+        "duration": "184",
+        "listeners": "5901",
+        "mbid": "3161a467-1441-4ef8-8ca0-424db271cd79",
+        "url": "https://www.last.fm/music/Olivia+Dean/_/Man+I+Need",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Olivia Dean",
+          "mbid": "15e0d608-0869-429b-898d-3d8db3ecedd5",
+          "url": "https://www.last.fm/music/Olivia+Dean"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "5"
+        }
+      },
+      {
+        "name": "Taste Back",
+        "duration": "221",
+        "listeners": "5565",
+        "mbid": "49562fdd-c325-415a-a2be-7d71f121b25d",
+        "url": "https://www.last.fm/music/Harry+Styles/_/Taste+Back",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Harry Styles",
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "url": "https://www.last.fm/music/Harry+Styles"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "6"
+        }
+      },
+      {
+        "name": "So Easy (To Fall In Love)",
+        "duration": "170",
+        "listeners": "5529",
+        "url": "https://www.last.fm/music/Olivia+Dean/_/So+Easy+(To+Fall+In+Love)",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Olivia Dean",
+          "mbid": "15e0d608-0869-429b-898d-3d8db3ecedd5",
+          "url": "https://www.last.fm/music/Olivia+Dean"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "7"
+        }
+      },
+      {
+        "name": "The Less I Know the Better",
+        "duration": "234",
+        "listeners": "5315",
+        "mbid": "0409caa8-c467-4455-8033-05ff8d9345f1",
+        "url": "https://www.last.fm/music/Tame+Impala/_/The+Less+I+Know+the+Better",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Tame Impala",
+          "mbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
+          "url": "https://www.last.fm/music/Tame+Impala"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "8"
+        }
+      },
+      {
+        "name": "All I Did Was Dream Of You (feat. The Marías)",
+        "duration": "0",
+        "listeners": "5187",
+        "url": "https://www.last.fm/music/beabadoobee/_/All+I+Did+Was+Dream+Of+You+(feat.+The+Mar%C3%ADas)",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "beabadoobee",
+          "mbid": "88d17133-abbc-42db-9526-4e2c1db60336",
+          "url": "https://www.last.fm/music/beabadoobee"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "9"
+        }
+      }
+    ],
+    "Brazil": [
+      {
+        "name": "Stateside + Zara Larsson",
+        "duration": "176",
+        "listeners": "74452",
+        "mbid": "ffbf7862-2476-4164-ac32-f5904ccefe0f",
+        "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "PinkPantheress",
+          "mbid": "7441014f-f8f5-494f-81db-ff166fbc078d",
+          "url": "https://www.last.fm/music/PinkPantheress"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "0"
+        }
+      },
+      {
+        "name": "Manchild",
+        "duration": "213",
+        "listeners": "53932",
+        "mbid": "16afd537-24ce-45f4-b3bc-e2ac99de3bf0",
+        "url": "https://www.last.fm/music/Sabrina+Carpenter/_/Manchild",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Sabrina Carpenter",
+          "mbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
+          "url": "https://www.last.fm/music/Sabrina+Carpenter"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "1"
+        }
+      },
+      {
+        "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
+        "duration": "140",
+        "listeners": "49208",
+        "mbid": "bd37b568-6b11-47e9-878a-4279cf5fb1e2",
+        "url": "https://www.last.fm/music/NandaTsunami/_/P.I.T.T.Y.+(Parecendo+Uma+Cafetina)",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "NandaTsunami",
+          "mbid": "a79eaa67-a865-406c-b98d-f4512ad198f2",
+          "url": "https://www.last.fm/music/NandaTsunami"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "2"
+        }
+      },
+      {
+        "name": "Fame Is a Gun",
+        "duration": "183",
+        "listeners": "41880",
+        "mbid": "37907edc-06c1-4d08-b2ef-7e5221986f91",
+        "url": "https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Addison Rae",
+          "mbid": "610b71d9-fa78-47d6-9073-083922e73840",
+          "url": "https://www.last.fm/music/Addison+Rae"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "3"
+        }
+      },
+      {
+        "name": "Body to Body",
+        "duration": "189",
+        "listeners": "41384",
+        "mbid": "6dfdfc61-89ff-451a-a5e9-5319065beae7",
+        "url": "https://www.last.fm/music/BTS/_/Body+to+Body",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "BTS",
+          "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+          "url": "https://www.last.fm/music/BTS"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "4"
+        }
+      },
+      {
+        "name": "Midnight Sun",
+        "duration": "189",
+        "listeners": "40737",
+        "mbid": "21e8a4db-0892-428d-a143-0e2215dddbfa",
+        "url": "https://www.last.fm/music/Zara+Larsson/_/Midnight+Sun",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Zara Larsson",
+          "mbid": "134e6410-6954-45d1-bd4a-0f2d2ad5471d",
+          "url": "https://www.last.fm/music/Zara+Larsson"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "5"
+        }
+      },
+      {
+        "name": "Lua Cheia",
+        "duration": "197",
+        "listeners": "40315",
+        "mbid": "96e8544b-f820-413e-a3d9-1bc39ac61498",
+        "url": "https://www.last.fm/music/Marina+Sena/_/Lua+Cheia",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Marina Sena",
+          "mbid": "2b1e7c27-2663-43df-9c23-8601e173e6ef",
+          "url": "https://www.last.fm/music/Marina+Sena"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "6"
+        }
+      },
+      {
+        "name": "Hooligan",
+        "duration": "182",
+        "listeners": "38932",
+        "mbid": "a045f252-ea1a-42c3-b7a5-f69979e39394",
+        "url": "https://www.last.fm/music/BTS/_/Hooligan",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "BTS",
+          "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+          "url": "https://www.last.fm/music/BTS"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "7"
+        }
+      },
+      {
+        "name": "Aliens",
+        "duration": "167",
+        "listeners": "37205",
+        "mbid": "370cb956-910e-4fde-87b4-fdce053168e9",
+        "url": "https://www.last.fm/music/BTS/_/Aliens",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "BTS",
+          "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+          "url": "https://www.last.fm/music/BTS"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "8"
+        }
+      },
+      {
+        "name": "FYA",
+        "duration": "180",
+        "listeners": "36766",
+        "mbid": "802e86e2-5da4-40c5-a265-933eb64d864b",
+        "url": "https://www.last.fm/music/BTS/_/FYA",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "BTS",
+          "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+          "url": "https://www.last.fm/music/BTS"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "9"
+        }
+      }
+    ],
+    "India": [
+      {
+        "name": "Body to Body",
+        "duration": "189",
+        "listeners": "12758",
+        "mbid": "6dfdfc61-89ff-451a-a5e9-5319065beae7",
+        "url": "https://www.last.fm/music/BTS/_/Body+to+Body",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "BTS",
+          "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+          "url": "https://www.last.fm/music/BTS"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "0"
+        }
+      },
+      {
+        "name": "Hooligan",
+        "duration": "182",
+        "listeners": "11907",
+        "mbid": "a045f252-ea1a-42c3-b7a5-f69979e39394",
+        "url": "https://www.last.fm/music/BTS/_/Hooligan",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "BTS",
+          "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+          "url": "https://www.last.fm/music/BTS"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "1"
+        }
+      },
+      {
+        "name": "FYA",
+        "duration": "180",
+        "listeners": "11616",
+        "mbid": "802e86e2-5da4-40c5-a265-933eb64d864b",
+        "url": "https://www.last.fm/music/BTS/_/FYA",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "BTS",
+          "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+          "url": "https://www.last.fm/music/BTS"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "2"
+        }
+      },
+      {
+        "name": "Aliens",
+        "duration": "167",
+        "listeners": "11603",
+        "mbid": "370cb956-910e-4fde-87b4-fdce053168e9",
+        "url": "https://www.last.fm/music/BTS/_/Aliens",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "BTS",
+          "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+          "url": "https://www.last.fm/music/BTS"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "3"
+        }
+      },
+      {
+        "name": "Swim",
+        "duration": "159",
+        "listeners": "11601",
+        "mbid": "6f33dc05-cdc0-4a2f-8039-e8fed082eec6",
+        "url": "https://www.last.fm/music/BTS/_/Swim",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "BTS",
+          "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+          "url": "https://www.last.fm/music/BTS"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "4"
+        }
+      },
+      {
+        "name": "2.0",
+        "duration": "169",
+        "listeners": "11364",
+        "mbid": "1d6222e0-77eb-4047-b4fb-045a0c5636d3",
+        "url": "https://www.last.fm/music/BTS/_/2.0",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "BTS",
+          "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+          "url": "https://www.last.fm/music/BTS"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "5"
+        }
+      },
+      {
+        "name": "Merry Go Round",
+        "duration": "229",
+        "listeners": "11187",
+        "mbid": "b9462ebb-1d6d-4477-a12b-402c0b65b206",
+        "url": "https://www.last.fm/music/BTS/_/Merry+Go+Round",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "BTS",
+          "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+          "url": "https://www.last.fm/music/BTS"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "6"
+        }
+      },
+      {
+        "name": "Normal",
+        "duration": "181",
+        "listeners": "11074",
+        "mbid": "98faaa53-eb11-4a49-9b69-33262055efb7",
+        "url": "https://www.last.fm/music/BTS/_/Normal",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "BTS",
+          "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+          "url": "https://www.last.fm/music/BTS"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "7"
+        }
+      },
+      {
+        "name": "Like Animals",
+        "duration": "189",
+        "listeners": "10968",
+        "mbid": "da0221e5-7c96-4c23-8295-4855d91d4085",
+        "url": "https://www.last.fm/music/BTS/_/Like+Animals",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "BTS",
+          "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+          "url": "https://www.last.fm/music/BTS"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "8"
+        }
+      },
+      {
+        "name": "No. 29",
+        "duration": "98",
+        "listeners": "10956",
+        "mbid": "7cac948e-4228-4799-9c8b-e9df276639f1",
+        "url": "https://www.last.fm/music/BTS/_/No.+29",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "BTS",
+          "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+          "url": "https://www.last.fm/music/BTS"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ],
+        "@attr": {
+          "rank": "9"
+        }
+      }
+    ]
+  },
+  "raw_track_details": [
+    {
+      "name": "Swim",
+      "mbid": "6f33dc05-cdc0-4a2f-8039-e8fed082eec6",
+      "url": "https://www.last.fm/music/BTS/_/Swim",
+      "duration": "159000",
+      "streamable": {
+        "#text": "0",
+        "fulltrack": "0"
+      },
+      "listeners": "201189",
+      "playcount": "2907611",
+      "artist": {
+        "name": "BTS",
+        "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+        "url": "https://www.last.fm/music/BTS"
+      },
+      "album": {
+        "artist": "BTS",
+        "title": "ARIRANG",
+        "url": "https://www.last.fm/music/BTS/ARIRANG",
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "extralarge"
+          }
+        ]
+      },
+      "toptags": {
+        "tag": []
+      }
+    },
+    {
+      "name": "Body to Body",
+      "mbid": "6dfdfc61-89ff-451a-a5e9-5319065beae7",
+      "url": "https://www.last.fm/music/BTS/_/Body+to+Body",
+      "duration": "189000",
+      "streamable": {
+        "#text": "0",
+        "fulltrack": "0"
+      },
+      "listeners": "223151",
+      "playcount": "1386648",
+      "artist": {
+        "name": "BTS",
+        "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+        "url": "https://www.last.fm/music/BTS"
+      },
+      "album": {
+        "artist": "BTS",
+        "title": "ARIRANG",
+        "url": "https://www.last.fm/music/BTS/ARIRANG",
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "extralarge"
+          }
+        ]
+      },
+      "toptags": {
+        "tag": []
+      }
+    },
+    {
+      "name": "Hooligan",
+      "mbid": "a045f252-ea1a-42c3-b7a5-f69979e39394",
+      "url": "https://www.last.fm/music/BTS/_/Hooligan",
+      "duration": "182000",
+      "streamable": {
+        "#text": "0",
+        "fulltrack": "0"
+      },
+      "listeners": "208168",
+      "playcount": "1242883",
+      "artist": {
+        "name": "BTS",
+        "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+        "url": "https://www.last.fm/music/BTS"
+      },
+      "album": {
+        "artist": "BTS",
+        "title": "ARIRANG",
+        "url": "https://www.last.fm/music/BTS/ARIRANG",
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "extralarge"
+          }
+        ]
+      },
+      "toptags": {
+        "tag": []
+      }
+    },
+    {
+      "name": "FYA",
+      "mbid": "802e86e2-5da4-40c5-a265-933eb64d864b",
+      "url": "https://www.last.fm/music/BTS/_/FYA",
+      "duration": "180000",
+      "streamable": {
+        "#text": "0",
+        "fulltrack": "0"
+      },
+      "listeners": "202463",
+      "playcount": "1216425",
+      "artist": {
+        "name": "BTS",
+        "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+        "url": "https://www.last.fm/music/BTS"
+      },
+      "album": {
+        "artist": "BTS",
+        "title": "ARIRANG",
+        "url": "https://www.last.fm/music/BTS/ARIRANG",
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "extralarge"
+          }
+        ]
+      },
+      "toptags": {
+        "tag": []
+      }
+    },
+    {
+      "name": "Aliens",
+      "mbid": "370cb956-910e-4fde-87b4-fdce053168e9",
+      "url": "https://www.last.fm/music/BTS/_/Aliens",
+      "duration": "167000",
+      "streamable": {
+        "#text": "0",
+        "fulltrack": "0"
+      },
+      "listeners": "201418",
+      "playcount": "1193690",
+      "artist": {
+        "name": "BTS",
+        "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+        "url": "https://www.last.fm/music/BTS"
+      },
+      "album": {
+        "artist": "BTS",
+        "title": "ARIRANG",
+        "url": "https://www.last.fm/music/BTS/ARIRANG",
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "extralarge"
+          }
+        ]
+      },
+      "toptags": {
+        "tag": []
+      }
+    },
+    {
+      "name": "2.0",
+      "mbid": "1d6222e0-77eb-4047-b4fb-045a0c5636d3",
+      "url": "https://www.last.fm/music/BTS/_/2.0",
+      "duration": "169000",
+      "streamable": {
+        "#text": "0",
+        "fulltrack": "0"
+      },
+      "listeners": "193809",
+      "playcount": "1153486",
+      "artist": {
+        "name": "BTS",
+        "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+        "url": "https://www.last.fm/music/BTS"
+      },
+      "album": {
+        "artist": "BTS",
+        "title": "ARIRANG",
+        "url": "https://www.last.fm/music/BTS/ARIRANG",
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "extralarge"
+          }
+        ]
+      },
+      "toptags": {
+        "tag": []
+      }
+    },
+    {
+      "name": "Merry Go Round",
+      "mbid": "b9462ebb-1d6d-4477-a12b-402c0b65b206",
+      "url": "https://www.last.fm/music/BTS/_/Merry+Go+Round",
+      "duration": "229000",
+      "streamable": {
+        "#text": "0",
+        "fulltrack": "0"
+      },
+      "listeners": "188628",
+      "playcount": "1115104",
+      "artist": {
+        "name": "BTS",
+        "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+        "url": "https://www.last.fm/music/BTS"
+      },
+      "album": {
+        "artist": "BTS",
+        "title": "ARIRANG",
+        "url": "https://www.last.fm/music/BTS/ARIRANG",
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "extralarge"
+          }
+        ]
+      },
+      "toptags": {
+        "tag": []
+      }
+    },
+    {
+      "name": "Normal",
+      "mbid": "98faaa53-eb11-4a49-9b69-33262055efb7",
+      "url": "https://www.last.fm/music/BTS/_/Normal",
+      "duration": "181000",
+      "streamable": {
+        "#text": "0",
+        "fulltrack": "0"
+      },
+      "listeners": "184248",
+      "playcount": "1182857",
+      "artist": {
+        "name": "BTS",
+        "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+        "url": "https://www.last.fm/music/BTS"
+      },
+      "album": {
+        "artist": "BTS",
+        "title": "ARIRANG",
+        "url": "https://www.last.fm/music/BTS/ARIRANG",
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "extralarge"
+          }
+        ]
+      },
+      "toptags": {
+        "tag": []
+      }
+    },
+    {
+      "name": "Like Animals",
+      "mbid": "da0221e5-7c96-4c23-8295-4855d91d4085",
+      "url": "https://www.last.fm/music/BTS/_/Like+Animals",
+      "duration": "189000",
+      "streamable": {
+        "#text": "0",
+        "fulltrack": "0"
+      },
+      "listeners": "181533",
+      "playcount": "1105274",
+      "artist": {
+        "name": "BTS",
+        "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+        "url": "https://www.last.fm/music/BTS"
+      },
+      "album": {
+        "artist": "BTS",
+        "title": "ARIRANG",
+        "url": "https://www.last.fm/music/BTS/ARIRANG",
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "extralarge"
+          }
+        ]
+      },
+      "toptags": {
+        "tag": []
+      }
+    },
+    {
+      "name": "they don’t know ’bout us",
+      "url": "https://www.last.fm/music/BTS/_/they+don%E2%80%99t+know+%E2%80%99bout+us",
+      "duration": "164000",
+      "streamable": {
+        "#text": "0",
+        "fulltrack": "0"
+      },
+      "listeners": "179733",
+      "playcount": "1075055",
+      "artist": {
+        "name": "BTS",
+        "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+        "url": "https://www.last.fm/music/BTS"
+      },
+      "album": {
+        "artist": "BTS",
+        "title": "ARIRANG",
+        "url": "https://www.last.fm/music/BTS/ARIRANG",
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/89799c9f5b5d06b42af8eb129d68896e.png",
+            "size": "extralarge"
+          }
+        ]
+      },
+      "toptags": {
+        "tag": []
+      }
+    }
+  ],
+  "raw_artist_details": [
+    {
+      "name": "BTS",
+      "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+      "url": "https://www.last.fm/music/BTS",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "extralarge"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "mega"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": ""
+        }
+      ],
+      "streamable": "0",
+      "ontour": "1",
+      "stats": {
+        "listeners": "2347634",
+        "playcount": "3100314999"
+      },
+      "similar": {
+        "artist": [
+          {
+            "name": "Agust D",
+            "url": "https://www.last.fm/music/Agust+D",
+            "image": [
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+              }
+            ]
+          },
+          {
+            "name": "RM",
+            "url": "https://www.last.fm/music/RM",
+            "image": [
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+              }
+            ]
+          },
+          {
+            "name": "BTS, Halsey",
+            "url": "https://www.last.fm/music/BTS,+Halsey",
+            "image": [
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+              }
+            ]
+          },
+          {
+            "name": "j-hope",
+            "url": "https://www.last.fm/music/j-hope",
+            "image": [
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+              }
+            ]
+          },
+          {
+            "name": "Jin",
+            "url": "https://www.last.fm/music/Jin",
+            "image": [
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "mega"
+              },
+              {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": ""
+              }
+            ]
+          }
+        ]
+      },
+      "tags": {
+        "tag": [
+          {
+            "name": "k-pop",
+            "url": "https://www.last.fm/tag/k-pop"
+          },
+          {
+            "name": "bts",
+            "url": "https://www.last.fm/tag/bts"
+          },
+          {
+            "name": "Kpop",
+            "url": "https://www.last.fm/tag/Kpop"
+          },
+          {
+            "name": "Korean",
+            "url": "https://www.last.fm/tag/Korean"
+          },
+          {
+            "name": "pop",
+            "url": "https://www.last.fm/tag/pop"
+          }
+        ]
+      },
+      "bio": {
+        "links": {
+          "link": {
+            "#text": "",
+            "rel": "original",
+            "href": "https://last.fm/music/BTS/+wiki"
+          }
+        },
+        "published": "23 Mar 2011, 09:20",
+        "summary": "BTS (Korean: 방탄소년단; RR: Bangtan Sonyeondan), also known as the Bangtan Boys, is a seven-member South Korean boy band formed in Seoul in 2013. The septet co-writes and produces much of their output. Originally a hip hop group, their musical style has evolved to include a wide range of genres. Their lyrics, often focused on personal and social commentary, touch on the themes of mental health, troubles of school-age youth, loss, the journey towards loving oneself, and individualism. <a href=\"https://www.last.fm/music/BTS\">Read more on Last.fm</a>",
+        "content": "BTS (Korean: 방탄소년단; RR: Bangtan Sonyeondan), also known as the Bangtan Boys, is a seven-member South Korean boy band formed in Seoul in 2013. The septet co-writes and produces much of their output. Originally a hip hop group, their musical style has evolved to include a wide range of genres. Their lyrics, often focused on personal and social commentary, touch on the themes of mental health, troubles of school-age youth, loss, the journey towards loving oneself, and individualism. Their work features references to literature and psychological concepts and includes an alternative universe storyline. Popular for their live performances, the group have staged several world tours.\n\nThe group initially formed as teenagers under Big Hit Entertainment and released their debut single album, 2 Cool 4 Skool (2013). Subsequent work such as their first U.S. Billboard 200 entries The Most Beautiful Moment in Life, Part 2 (2015), The Most Beautiful Moment in Life: Young Forever (2016), and Wings (2016) helped establish BTS' reputation as a socially conscious group. Wings became BTS' first album to sell one million copies in South Korea. By 2017, BTS crossed into the international music market, leading the Korean Wave into the United States and breaking numerous sales records, becoming the first Korean group to receive a certification by the Recording Industry Association of America (RIAA) with their single \"Mic Drop\". The band is the first Korean act to top the U.S. Billboard 200 with their studio album Love Yourself: Tear (2018) and have since hit the top of the U.S. charts with their albums Love Yourself: Answer (2018) and Map of the Soul: Persona (2019), making BTS the first group since The Beatles to earn three number one albums in less than a year, and the fastest to earn three number one albums since The Monkees in 1967. Love Yourself: Answer also broke South Korea's Gaon Album Chart's all-time monthly record previously set by Love Yourself: Tear and became the first Korean album certified Gold in the United States.\n\nAccording to Gaon Music Chart, BTS has sold fifteen million albums domestically and is the best-selling artist to debut in the 2010s. They hold the best-selling album in Korean history with Map of the Soul: Persona. BTS were the second best-selling artists of 2018 worldwide according to the IFPI's Global Artist Chart, as well as the only non-English speaking artist to enter the chart. The group has won Top Social Artist three years in a row and Top Duo/Group at the 26th Billboard Music Awards. Featured on Time's international cover as \"Next Generation Leaders\", BTS has appeared in the magazine's 25 most influential people on the internet (2017–2019) and Time's 100 most influential people in the world (2019), with the outlet giving them the nickname 'Princes of Pop'. Forbes Korea named BTS the most influential celebrities of Korea in 2018, and BTS ranked 43rd in the Forbes Celebrity 100 (2019) as one of the world's top-earning celebrities. During their 2019 Love Yourself World Tour, BTS became the first Asian artist ever to headline and sell out Wembley Stadium and broke the record for the single highest-grossing engagement in Rose Bowl Stadium history. BTS are worth more than $4.65 billion to South Korea's economy each year, attracting one in every 13 foreign tourists that visit the country, and are cited as one of the key acts boosting global music sales to $19 billion in 2018, a figure not seen since 2006 after digital purchases gained momentum.\n\nFollowing the establishment of their Love Myself anti-violence campaign in partnership with UNICEF, BTS addressed the United Nations 73rd General Assembly and became the youngest ever recipients of the Order of Cultural Merit from the President of South Korea due to their contributions in spreading Korean culture and language. <a href=\"https://www.last.fm/music/BTS\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+      }
+    }
+  ],
+  "normalized_tracks": [
+    {
+      "artist": "BTS",
+      "track": "SWIM",
+      "rank": 1,
+      "streams": 14644352,
+      "listeners": 201189,
+      "playcount": 2907611,
+      "artist_listeners": 2347634,
+      "artist_playcount": 3100314999,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "India"
+      ],
+      "track_url": "https://www.last.fm/music/BTS/_/Swim",
+      "artist_url": "https://www.last.fm/music/BTS",
+      "summary": "BTS (Korean: 방탄소년단; RR: Bangtan Sonyeondan), also known as the Bangtan Boys, is a seven-member South Korean boy band formed in Seoul in 2013. The septet co-writes and produces much of their output. Originally a hip hop group, their musical style has evolved to include a wide range of genres. Their lyrics, often focused on personal and social commentary, touch on the themes of mental health, troubles of school-age youth, loss, the journey towards loving oneself, and individualism. <a href=\"https://www.last.fm/music/BTS\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global"
+    },
+    {
+      "artist": "BTS",
+      "track": "Body to Body",
+      "rank": 2,
+      "streams": 11185035,
+      "listeners": 223151,
+      "playcount": 1386648,
+      "artist_listeners": 2347634,
+      "artist_playcount": 3100314999,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "Brazil",
+        "India"
+      ],
+      "track_url": "https://www.last.fm/music/BTS/_/Body+to+Body",
+      "artist_url": "https://www.last.fm/music/BTS",
+      "summary": "BTS (Korean: 방탄소년단; RR: Bangtan Sonyeondan), also known as the Bangtan Boys, is a seven-member South Korean boy band formed in Seoul in 2013. The septet co-writes and produces much of their output. Originally a hip hop group, their musical style has evolved to include a wide range of genres. Their lyrics, often focused on personal and social commentary, touch on the themes of mental health, troubles of school-age youth, loss, the journey towards loving oneself, and individualism. <a href=\"https://www.last.fm/music/BTS\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global"
+    },
+    {
+      "artist": "BTS",
+      "track": "Hooligan",
+      "rank": 3,
+      "streams": 8735463,
+      "listeners": 208168,
+      "playcount": 1242883,
+      "artist_listeners": 2347634,
+      "artist_playcount": 3100314999,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "Brazil",
+        "India"
+      ],
+      "track_url": "https://www.last.fm/music/BTS/_/Hooligan",
+      "artist_url": "https://www.last.fm/music/BTS",
+      "summary": "BTS (Korean: 방탄소년단; RR: Bangtan Sonyeondan), also known as the Bangtan Boys, is a seven-member South Korean boy band formed in Seoul in 2013. The septet co-writes and produces much of their output. Originally a hip hop group, their musical style has evolved to include a wide range of genres. Their lyrics, often focused on personal and social commentary, touch on the themes of mental health, troubles of school-age youth, loss, the journey towards loving oneself, and individualism. <a href=\"https://www.last.fm/music/BTS\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global"
+    },
+    {
+      "artist": "BTS",
+      "track": "FYA",
+      "rank": 4,
+      "streams": 8070671,
+      "listeners": 202463,
+      "playcount": 1216425,
+      "artist_listeners": 2347634,
+      "artist_playcount": 3100314999,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "Brazil",
+        "India"
+      ],
+      "track_url": "https://www.last.fm/music/BTS/_/FYA",
+      "artist_url": "https://www.last.fm/music/BTS",
+      "summary": "BTS (Korean: 방탄소년단; RR: Bangtan Sonyeondan), also known as the Bangtan Boys, is a seven-member South Korean boy band formed in Seoul in 2013. The septet co-writes and produces much of their output. Originally a hip hop group, their musical style has evolved to include a wide range of genres. Their lyrics, often focused on personal and social commentary, touch on the themes of mental health, troubles of school-age youth, loss, the journey towards loving oneself, and individualism. <a href=\"https://www.last.fm/music/BTS\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global"
+    },
+    {
+      "artist": "BTS",
+      "track": "Aliens",
+      "rank": 5,
+      "streams": 7755173,
+      "listeners": 201418,
+      "playcount": 1193690,
+      "artist_listeners": 2347634,
+      "artist_playcount": 3100314999,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "Brazil",
+        "India"
+      ],
+      "track_url": "https://www.last.fm/music/BTS/_/Aliens",
+      "artist_url": "https://www.last.fm/music/BTS",
+      "summary": "BTS (Korean: 방탄소년단; RR: Bangtan Sonyeondan), also known as the Bangtan Boys, is a seven-member South Korean boy band formed in Seoul in 2013. The septet co-writes and produces much of their output. Originally a hip hop group, their musical style has evolved to include a wide range of genres. Their lyrics, often focused on personal and social commentary, touch on the themes of mental health, troubles of school-age youth, loss, the journey towards loving oneself, and individualism. <a href=\"https://www.last.fm/music/BTS\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global"
+    },
+    {
+      "artist": "BTS",
+      "track": "2.0",
+      "rank": 6,
+      "streams": 7383093,
+      "listeners": 193809,
+      "playcount": 1153486,
+      "artist_listeners": 2347634,
+      "artist_playcount": 3100314999,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "India"
+      ],
+      "track_url": "https://www.last.fm/music/BTS/_/2.0",
+      "artist_url": "https://www.last.fm/music/BTS",
+      "summary": "BTS (Korean: 방탄소년단; RR: Bangtan Sonyeondan), also known as the Bangtan Boys, is a seven-member South Korean boy band formed in Seoul in 2013. The septet co-writes and produces much of their output. Originally a hip hop group, their musical style has evolved to include a wide range of genres. Their lyrics, often focused on personal and social commentary, touch on the themes of mental health, troubles of school-age youth, loss, the journey towards loving oneself, and individualism. <a href=\"https://www.last.fm/music/BTS\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global"
+    },
+    {
+      "artist": "BTS",
+      "track": "Merry Go Round",
+      "rank": 7,
+      "streams": 7230907,
+      "listeners": 188628,
+      "playcount": 1115104,
+      "artist_listeners": 2347634,
+      "artist_playcount": 3100314999,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "India"
+      ],
+      "track_url": "https://www.last.fm/music/BTS/_/Merry+Go+Round",
+      "artist_url": "https://www.last.fm/music/BTS",
+      "summary": "BTS (Korean: 방탄소년단; RR: Bangtan Sonyeondan), also known as the Bangtan Boys, is a seven-member South Korean boy band formed in Seoul in 2013. The septet co-writes and produces much of their output. Originally a hip hop group, their musical style has evolved to include a wide range of genres. Their lyrics, often focused on personal and social commentary, touch on the themes of mental health, troubles of school-age youth, loss, the journey towards loving oneself, and individualism. <a href=\"https://www.last.fm/music/BTS\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global"
+    },
+    {
+      "artist": "BTS",
+      "track": "NORMAL",
+      "rank": 8,
+      "streams": 7159676,
+      "listeners": 184248,
+      "playcount": 1182857,
+      "artist_listeners": 2347634,
+      "artist_playcount": 3100314999,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "India"
+      ],
+      "track_url": "https://www.last.fm/music/BTS/_/Normal",
+      "artist_url": "https://www.last.fm/music/BTS",
+      "summary": "BTS (Korean: 방탄소년단; RR: Bangtan Sonyeondan), also known as the Bangtan Boys, is a seven-member South Korean boy band formed in Seoul in 2013. The septet co-writes and produces much of their output. Originally a hip hop group, their musical style has evolved to include a wide range of genres. Their lyrics, often focused on personal and social commentary, touch on the themes of mental health, troubles of school-age youth, loss, the journey towards loving oneself, and individualism. <a href=\"https://www.last.fm/music/BTS\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global"
+    },
+    {
+      "artist": "BTS",
+      "track": "Like Animals",
+      "rank": 9,
+      "streams": 6827196,
+      "listeners": 181533,
+      "playcount": 1105274,
+      "artist_listeners": 2347634,
+      "artist_playcount": 3100314999,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "India"
+      ],
+      "track_url": "https://www.last.fm/music/BTS/_/Like+Animals",
+      "artist_url": "https://www.last.fm/music/BTS",
+      "summary": "BTS (Korean: 방탄소년단; RR: Bangtan Sonyeondan), also known as the Bangtan Boys, is a seven-member South Korean boy band formed in Seoul in 2013. The septet co-writes and produces much of their output. Originally a hip hop group, their musical style has evolved to include a wide range of genres. Their lyrics, often focused on personal and social commentary, touch on the themes of mental health, troubles of school-age youth, loss, the journey towards loving oneself, and individualism. <a href=\"https://www.last.fm/music/BTS\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global"
+    },
+    {
+      "artist": "BTS",
+      "track": "they don’t know ’bout us",
+      "rank": 10,
+      "streams": 6729450,
+      "listeners": 179733,
+      "playcount": 1075055,
+      "artist_listeners": 2347634,
+      "artist_playcount": 3100314999,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [],
+      "track_url": "https://www.last.fm/music/BTS/_/they+don%E2%80%99t+know+%E2%80%99bout+us",
+      "artist_url": "https://www.last.fm/music/BTS",
+      "summary": "BTS (Korean: 방탄소년단; RR: Bangtan Sonyeondan), also known as the Bangtan Boys, is a seven-member South Korean boy band formed in Seoul in 2013. The septet co-writes and produces much of their output. Originally a hip hop group, their musical style has evolved to include a wide range of genres. Their lyrics, often focused on personal and social commentary, touch on the themes of mental health, troubles of school-age youth, loss, the journey towards loving oneself, and individualism. <a href=\"https://www.last.fm/music/BTS\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global"
+    }
+  ],
+  "ranked_tracks": [
+    {
+      "artist": "BTS",
+      "track": "SWIM",
+      "rank": 1,
+      "streams": 14644352,
+      "listeners": 201189,
+      "playcount": 2907611,
+      "artist_listeners": 2347634,
+      "artist_playcount": 3100314999,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "India"
+      ],
+      "track_url": "https://www.last.fm/music/BTS/_/Swim",
+      "artist_url": "https://www.last.fm/music/BTS",
+      "summary": "BTS (Korean: 방탄소년단; RR: Bangtan Sonyeondan), also known as the Bangtan Boys, is a seven-member South Korean boy band formed in Seoul in 2013. The septet co-writes and produces much of their output. Originally a hip hop group, their musical style has evolved to include a wide range of genres. Their lyrics, often focused on personal and social commentary, touch on the themes of mental health, troubles of school-age youth, loss, the journey towards loving oneself, and individualism. <a href=\"https://www.last.fm/music/BTS\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global",
+      "trend_score": 79.08
+    },
+    {
+      "artist": "BTS",
+      "track": "Body to Body",
+      "rank": 2,
+      "streams": 11185035,
+      "listeners": 223151,
+      "playcount": 1386648,
+      "artist_listeners": 2347634,
+      "artist_playcount": 3100314999,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "Brazil",
+        "India"
+      ],
+      "track_url": "https://www.last.fm/music/BTS/_/Body+to+Body",
+      "artist_url": "https://www.last.fm/music/BTS",
+      "summary": "BTS (Korean: 방탄소년단; RR: Bangtan Sonyeondan), also known as the Bangtan Boys, is a seven-member South Korean boy band formed in Seoul in 2013. The septet co-writes and produces much of their output. Originally a hip hop group, their musical style has evolved to include a wide range of genres. Their lyrics, often focused on personal and social commentary, touch on the themes of mental health, troubles of school-age youth, loss, the journey towards loving oneself, and individualism. <a href=\"https://www.last.fm/music/BTS\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global",
+      "trend_score": 65.22
+    },
+    {
+      "artist": "BTS",
+      "track": "Hooligan",
+      "rank": 3,
+      "streams": 8735463,
+      "listeners": 208168,
+      "playcount": 1242883,
+      "artist_listeners": 2347634,
+      "artist_playcount": 3100314999,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "Brazil",
+        "India"
+      ],
+      "track_url": "https://www.last.fm/music/BTS/_/Hooligan",
+      "artist_url": "https://www.last.fm/music/BTS",
+      "summary": "BTS (Korean: 방탄소년단; RR: Bangtan Sonyeondan), also known as the Bangtan Boys, is a seven-member South Korean boy band formed in Seoul in 2013. The septet co-writes and produces much of their output. Originally a hip hop group, their musical style has evolved to include a wide range of genres. Their lyrics, often focused on personal and social commentary, touch on the themes of mental health, troubles of school-age youth, loss, the journey towards loving oneself, and individualism. <a href=\"https://www.last.fm/music/BTS\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global",
+      "trend_score": 47.63
+    },
+    {
+      "artist": "BTS",
+      "track": "FYA",
+      "rank": 4,
+      "streams": 8070671,
+      "listeners": 202463,
+      "playcount": 1216425,
+      "artist_listeners": 2347634,
+      "artist_playcount": 3100314999,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "Brazil",
+        "India"
+      ],
+      "track_url": "https://www.last.fm/music/BTS/_/FYA",
+      "artist_url": "https://www.last.fm/music/BTS",
+      "summary": "BTS (Korean: 방탄소년단; RR: Bangtan Sonyeondan), also known as the Bangtan Boys, is a seven-member South Korean boy band formed in Seoul in 2013. The septet co-writes and produces much of their output. Originally a hip hop group, their musical style has evolved to include a wide range of genres. Their lyrics, often focused on personal and social commentary, touch on the themes of mental health, troubles of school-age youth, loss, the journey towards loving oneself, and individualism. <a href=\"https://www.last.fm/music/BTS\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global",
+      "trend_score": 39.53
+    },
+    {
+      "artist": "BTS",
+      "track": "Aliens",
+      "rank": 5,
+      "streams": 7755173,
+      "listeners": 201418,
+      "playcount": 1193690,
+      "artist_listeners": 2347634,
+      "artist_playcount": 3100314999,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "Brazil",
+        "India"
+      ],
+      "track_url": "https://www.last.fm/music/BTS/_/Aliens",
+      "artist_url": "https://www.last.fm/music/BTS",
+      "summary": "BTS (Korean: 방탄소년단; RR: Bangtan Sonyeondan), also known as the Bangtan Boys, is a seven-member South Korean boy band formed in Seoul in 2013. The septet co-writes and produces much of their output. Originally a hip hop group, their musical style has evolved to include a wide range of genres. Their lyrics, often focused on personal and social commentary, touch on the themes of mental health, troubles of school-age youth, loss, the journey towards loving oneself, and individualism. <a href=\"https://www.last.fm/music/BTS\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global",
+      "trend_score": 34.16
+    },
+    {
+      "artist": "BTS",
+      "track": "2.0",
+      "rank": 6,
+      "streams": 7383093,
+      "listeners": 193809,
+      "playcount": 1153486,
+      "artist_listeners": 2347634,
+      "artist_playcount": 3100314999,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "India"
+      ],
+      "track_url": "https://www.last.fm/music/BTS/_/2.0",
+      "artist_url": "https://www.last.fm/music/BTS",
+      "summary": "BTS (Korean: 방탄소년단; RR: Bangtan Sonyeondan), also known as the Bangtan Boys, is a seven-member South Korean boy band formed in Seoul in 2013. The septet co-writes and produces much of their output. Originally a hip hop group, their musical style has evolved to include a wide range of genres. Their lyrics, often focused on personal and social commentary, touch on the themes of mental health, troubles of school-age youth, loss, the journey towards loving oneself, and individualism. <a href=\"https://www.last.fm/music/BTS\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global",
+      "trend_score": 24.58
+    },
+    {
+      "artist": "BTS",
+      "track": "Merry Go Round",
+      "rank": 7,
+      "streams": 7230907,
+      "listeners": 188628,
+      "playcount": 1115104,
+      "artist_listeners": 2347634,
+      "artist_playcount": 3100314999,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "India"
+      ],
+      "track_url": "https://www.last.fm/music/BTS/_/Merry+Go+Round",
+      "artist_url": "https://www.last.fm/music/BTS",
+      "summary": "BTS (Korean: 방탄소년단; RR: Bangtan Sonyeondan), also known as the Bangtan Boys, is a seven-member South Korean boy band formed in Seoul in 2013. The septet co-writes and produces much of their output. Originally a hip hop group, their musical style has evolved to include a wide range of genres. Their lyrics, often focused on personal and social commentary, touch on the themes of mental health, troubles of school-age youth, loss, the journey towards loving oneself, and individualism. <a href=\"https://www.last.fm/music/BTS\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global",
+      "trend_score": 18.21
+    },
+    {
+      "artist": "BTS",
+      "track": "NORMAL",
+      "rank": 8,
+      "streams": 7159676,
+      "listeners": 184248,
+      "playcount": 1182857,
+      "artist_listeners": 2347634,
+      "artist_playcount": 3100314999,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "India"
+      ],
+      "track_url": "https://www.last.fm/music/BTS/_/Normal",
+      "artist_url": "https://www.last.fm/music/BTS",
+      "summary": "BTS (Korean: 방탄소년단; RR: Bangtan Sonyeondan), also known as the Bangtan Boys, is a seven-member South Korean boy band formed in Seoul in 2013. The septet co-writes and produces much of their output. Originally a hip hop group, their musical style has evolved to include a wide range of genres. Their lyrics, often focused on personal and social commentary, touch on the themes of mental health, troubles of school-age youth, loss, the journey towards loving oneself, and individualism. <a href=\"https://www.last.fm/music/BTS\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global",
+      "trend_score": 12.95
+    },
+    {
+      "artist": "BTS",
+      "track": "Like Animals",
+      "rank": 9,
+      "streams": 6827196,
+      "listeners": 181533,
+      "playcount": 1105274,
+      "artist_listeners": 2347634,
+      "artist_playcount": 3100314999,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [
+        "India"
+      ],
+      "track_url": "https://www.last.fm/music/BTS/_/Like+Animals",
+      "artist_url": "https://www.last.fm/music/BTS",
+      "summary": "BTS (Korean: 방탄소년단; RR: Bangtan Sonyeondan), also known as the Bangtan Boys, is a seven-member South Korean boy band formed in Seoul in 2013. The septet co-writes and produces much of their output. Originally a hip hop group, their musical style has evolved to include a wide range of genres. Their lyrics, often focused on personal and social commentary, touch on the themes of mental health, troubles of school-age youth, loss, the journey towards loving oneself, and individualism. <a href=\"https://www.last.fm/music/BTS\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global",
+      "trend_score": 6.65
+    },
+    {
+      "artist": "BTS",
+      "track": "they don’t know ’bout us",
+      "rank": 10,
+      "streams": 6729450,
+      "listeners": 179733,
+      "playcount": 1075055,
+      "artist_listeners": 2347634,
+      "artist_playcount": 3100314999,
+      "tags": [],
+      "global_chart_seen": true,
+      "country_chart_seen": [],
+      "track_url": "https://www.last.fm/music/BTS/_/they+don%E2%80%99t+know+%E2%80%99bout+us",
+      "artist_url": "https://www.last.fm/music/BTS",
+      "summary": "BTS (Korean: 방탄소년단; RR: Bangtan Sonyeondan), also known as the Bangtan Boys, is a seven-member South Korean boy band formed in Seoul in 2013. The septet co-writes and produces much of their output. Originally a hip hop group, their musical style has evolved to include a wide range of genres. Their lyrics, often focused on personal and social commentary, touch on the themes of mental health, troubles of school-age youth, loss, the journey towards loving oneself, and individualism. <a href=\"https://www.last.fm/music/BTS\">Read more on Last.fm</a>",
+      "source": "kworb_spotify_global",
+      "trend_score": 0.0
+    }
+  ],
+  "insights": [
+    "Top opportunity: 'SWIM' by BTS leads the ranking with a trend score of 79.08, current chart rank #1, and approximately 14,644,352 streams.",
+    "Breakout signal: 'Body to Body' by BTS has the strongest immediate commercial signal with chart rank #2 and 11,185,035 streams.",
+    "Rising track: 'SWIM' by BTS is showing strong momentum but is not yet the top breakout candidate.",
+    "Cross-market strength: 'Body to Body' appears in multiple monitored markets (Brazil, India).",
+    "Analysis was benchmarked across 6 monitored market(s): United States, United Kingdom, Canada, Australia, Brazil, India."
+  ],
+  "watchlist": [
+    {
+      "artist": "BTS",
+      "track": "SWIM",
+      "rank": 1,
+      "streams": 14644352,
+      "trend_score": 79.08,
+      "listeners": 201189,
+      "playcount": 2907611,
+      "country_chart_seen": [
+        "India"
+      ],
+      "tags": [],
+      "recommendation": "📈 Rising track — accelerate promotion this week"
+    },
+    {
+      "artist": "BTS",
+      "track": "Body to Body",
+      "rank": 2,
+      "streams": 11185035,
+      "trend_score": 65.22,
+      "listeners": 223151,
+      "playcount": 1386648,
+      "country_chart_seen": [
+        "Brazil",
+        "India"
+      ],
+      "tags": [],
+      "recommendation": "🔥 Breakout track — push immediately"
+    },
+    {
+      "artist": "BTS",
+      "track": "Hooligan",
+      "rank": 3,
+      "streams": 8735463,
+      "trend_score": 47.63,
+      "listeners": 208168,
+      "playcount": 1242883,
+      "country_chart_seen": [
+        "Brazil",
+        "India"
+      ],
+      "tags": [],
+      "recommendation": "📈 Rising track — accelerate promotion this week"
+    },
+    {
+      "artist": "BTS",
+      "track": "FYA",
+      "rank": 4,
+      "streams": 8070671,
+      "trend_score": 39.53,
+      "listeners": 202463,
+      "playcount": 1216425,
+      "country_chart_seen": [
+        "Brazil",
+        "India"
+      ],
+      "tags": [],
+      "recommendation": "🎯 Test promotion in high-signal markets"
+    },
+    {
+      "artist": "BTS",
+      "track": "Aliens",
+      "rank": 5,
+      "streams": 7755173,
+      "trend_score": 34.16,
+      "listeners": 201418,
+      "playcount": 1193690,
+      "country_chart_seen": [
+        "Brazil",
+        "India"
+      ],
+      "tags": [],
+      "recommendation": "🎯 Test promotion in high-signal markets"
+    },
+    {
+      "artist": "BTS",
+      "track": "2.0",
+      "rank": 6,
+      "streams": 7383093,
+      "trend_score": 24.58,
+      "listeners": 193809,
+      "playcount": 1153486,
+      "country_chart_seen": [
+        "India"
+      ],
+      "tags": [],
+      "recommendation": "👀 Add to active watchlist and monitor closely"
+    },
+    {
+      "artist": "BTS",
+      "track": "Merry Go Round",
+      "rank": 7,
+      "streams": 7230907,
+      "trend_score": 18.21,
+      "listeners": 188628,
+      "playcount": 1115104,
+      "country_chart_seen": [
+        "India"
+      ],
+      "tags": [],
+      "recommendation": "👀 Add to active watchlist and monitor closely"
+    },
+    {
+      "artist": "BTS",
+      "track": "NORMAL",
+      "rank": 8,
+      "streams": 7159676,
+      "trend_score": 12.95,
+      "listeners": 184248,
+      "playcount": 1182857,
+      "country_chart_seen": [
+        "India"
+      ],
+      "tags": [],
+      "recommendation": "👀 Add to active watchlist and monitor closely"
+    },
+    {
+      "artist": "BTS",
+      "track": "Like Animals",
+      "rank": 9,
+      "streams": 6827196,
+      "trend_score": 6.65,
+      "listeners": 181533,
+      "playcount": 1105274,
+      "country_chart_seen": [
+        "India"
+      ],
+      "tags": [],
+      "recommendation": "👀 Add to active watchlist and monitor closely"
+    },
+    {
+      "artist": "BTS",
+      "track": "they don’t know ’bout us",
+      "rank": 10,
+      "streams": 6729450,
+      "trend_score": 0.0,
+      "listeners": 179733,
+      "playcount": 1075055,
+      "country_chart_seen": [],
+      "tags": [],
+      "recommendation": "👀 Add to active watchlist and monitor closely"
+    }
+  ],
+  "final_report": "Title\nMusic Trend Scout Report\n\nExecutive Summary\n- Top opportunity: 'SWIM' by BTS leads the ranking with a trend score of 79.08, current chart rank #1, and approximately 14,644,352 streams.\n- Breakout signal: 'Body to Body' by BTS has the strongest immediate commercial signal with chart rank #2 and 11,185,035 streams.\n- Rising track: 'SWIM' by BTS is showing strong momentum but is not yet the top breakout candidate.\n- Cross-market strength: 'Body to Body' appears in multiple monitored markets (Brazil, India).\n- Analysis was benchmarked across 6 monitored market(s): United States, United Kingdom, Canada, Australia, Brazil, India.\n\nTop Opportunities\n- SWIM by BTS | score=79.08 | action=📈 Rising track — accelerate promotion this week\n- Body to Body by BTS | score=65.22 | action=🔥 Breakout track — push immediately\n- Hooligan by BTS | score=47.63 | action=📈 Rising track — accelerate promotion this week\n- FYA by BTS | score=39.53 | action=🎯 Test promotion in high-signal markets\n- Aliens by BTS | score=34.16 | action=🎯 Test promotion in high-signal markets\n- 2.0 by BTS | score=24.58 | action=👀 Add to active watchlist and monitor closely\n- Merry Go Round by BTS | score=18.21 | action=👀 Add to active watchlist and monitor closely\n- NORMAL by BTS | score=12.95 | action=👀 Add to active watchlist and monitor closely\n- Like Animals by BTS | score=6.65 | action=👀 Add to active watchlist and monitor closely\n- they don’t know ’bout us by BTS | score=0.0 | action=👀 Add to active watchlist and monitor closely\n\nRecommended Actions\n- Review the top-ranked tracks and validate with platform-specific data.\n- Track these songs again in the next cycle to confirm momentum.\n\nRisks / Limitations\n- Fallback report generated because the LLM reporter step failed.\n- Reporter agent failed: Connection error.",
+  "status": "reporter_fallback_completed",
+  "errors": [
+    "Reporter agent failed: Connection error."
+  ]
+}

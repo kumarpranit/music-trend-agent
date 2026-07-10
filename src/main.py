@@ -174,5 +174,5 @@ def main() -> None:
     print("\nPipeline finished.\n")
 
 
-if __name__ == "__main__":
-    main()
+if __name__ == "__main__":#
+    # main()
